@@ -1,0 +1,124 @@
+<p>
+<strong>運営チームのお手伝いさん募集</strong>[spoiler=クリックで展開]
+公式Discordグループにて、運営チームのお手伝いさんの募集を開始しました。<br />
+現在、プレイヤーの人数に対して運営チームメンバーが不足しているのと、運営チームの各メンバーが現実世界に追われている影響で、当鯖の維持と発展に支障が出ており、これを解決することが目的です。<br />
+独自機能開発への参加、Wikiの編集、ルール違反プレイヤーの調査報告等、様々な役職を用意しております。<br />
+興味のある方はDiscordグループに参加してから、ガイドラインをお読みになり申請を行ってください。<br />
+<a href="https://docs.google.com/document/d/1bkkm7j8MfCchFS2RarJhvSHTErLVoHqcHDBR9xesJho" rel="nofollow">ガイドラインはこちら</a><br />
+<a href="https://discord.gg/pVq9Ftf" rel="nofollow">Discordグループへの参加はこちら</a>
+[/spoiler]
+<div style="text-align: center;"><span style="font-size: 26px;"><strong>―よろしい、ならば整地だ。</strong></span></div>
+<div style="text-align: center"><span class="postimg"><img src="http://image02.seesaawiki.jp/u/a/unchama/d4c635f287ab424c.gif" alt=""/></span></div>
+<div style="text-align: center"><strong>2016.9.19 大型アップデート スキル大量追加</strong></div>
+<br />
+<strong><span style="font-size: 18px;">Q：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地鯖</span></span><span style="font-size: 18px;">ってなんぞや？</span></strong>[spoiler=クリックで展開]
+<strong><span style="font-size: 18px;">A：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地</span></span><span style="font-size: 18px;">に特化しすぎた生活鯖です。</span></strong><br />
+整地レベル要素、ガチャシステム、数々のスキル、数々の便利機能…<br />
+整地鯖は、<strong>バニラには無い感動の整地体験を味わえる唯一の鯖</strong>です。<br />
+整地ワールドでは、壮大な岩盤整地プロジェクトに誰でも参加することが可能。<br />
+生活鯖の要素も含んでおり、建築用途の広大なメインワールドで自由に建築が可能。<br />
+複数鯖構成により、混雑時でもラグを抑えた快適なプレイ環境を提供します。<br />
+<br />
+<strong>木の棒を右クリックすると<span style="color: #ff00ff;">便利なメニュー画面</span>が開きます！</strong>（<a href="http://seichi.click/d/%a5%e1%a5%cb%a5%e5%a1%bc%b2%e8%cc%cc" target="_blank">解説ページ</a>）<br />
+初めての人は<span style="color: #33cccc;"><strong>ビーコンボタン</span></strong>を押して<span style="color: #008000;"><strong>整地or資源ワールド</span></strong>に行って掘ってみよう！<br />
+<br />
+<strong>『<span style="color: #ff00ff;">ガチャ</span>』で<span style="color: #ff0000;">耐久無限ピッケル</span>をゲット！？</strong>（<a href="http://seichi.click/d/%c0%b0%c3%cf%a5%ac%a5%c1%a5%e3" target="_blank">解説ページ</a>）<br />
+①<span style="color: #ff9900;"><strong>1000ブロック</strong></span>破壊するごとに<span style="color: #ff00ff;"><strong>ガチャ券</strong></span>が1枚もらえます。<br />
+②<span style="color: #ff00ff;"><strong>ガチャ券</strong></span>を右クリックするとアイテムGET！<strong>運がいいと<span style="color: #ff0000;">各種レアアイテム</span>がもらえる！？</strong><br />
+※効率よくガチャ券を手に入れるには『<span style="color: #339966;"><strong>整地or資源ワールド</strong></span>』がオススメ！<br />
+<br />
+<strong>『<span style="color: #ff6600;">整地スキル</span>』で<span style="color: #ff0000;">毎分5000ブロック以上整地</span>出来る！？</strong>（<a href="http://seichi.click/d/%a5%b9%a5%ad%a5%eb%a5%b7%a5%b9%a5%c6%a5%e0" target="_blank">解説ページ</a>）<br />
+整地して<span style="color: #008000;"><strong>整地レベル</strong></span>を上げると<span style="color: #ff00ff;"><b>スキルポイント</b></span>を獲得！<br />
+獲得した<span style="color: #ff00ff;"><b>スキルポイント</b></span>で様々な<span style="color: #ff0000;"><b>スキル</b></span>を習得出来るゾ！<br />
+・自分の正面最大<span style="color: #ff0000;"><b>2925ブロックを一瞬で破壊</b></span><br />
+・自分の正面最大<span style="color: #ff0000;"><b>49マスを一瞬で空洞</b></span>に<br />
+・弓矢で<span style="color: #ff0000;"><b>遠くのブロックを破壊</b></span><br />
+・水やマグマを<span style="color: #ff0000;"><b>一瞬で固める</b></span><br />
+<br />
+<b>MOD無しで『<span style="color: #993300;">StorageBox</span>』が使える！？</b><br />
+整地して<span style="color: #008000;"><strong>整地レベル</strong></span>を上げると<span style="color: #ff00ff;"><b>様々な便利機能</b></span>が解禁！<br />
+・特定ブロックを<span style="color: #ff0000;"><b>無限スタック</b></span>出来る『<b>MineStack</b>』（<a href="http://seichi.click/d/MineStack" target="_blank">解説ページ</a>）<br />
+・どこでも出し入れ自由な<span style="color: #ff0000;"><b>拡張インベントリ</b></span>『<b>四次元ポケット</b>』<br />
+・経験値消費でいつでも<span style="color: #ff0000;"><b>クリエイティブモードのような飛行</b></span>『<b>タケコプター</b>』（<a href="http://seichi.click/d/LeftMENU" target="_blank">解説ページ</a>）<br />
+<br />
+参加される際は、<a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow"><strong>運営方針とルール</strong></a>も併せてご確認ください。
+[/spoiler]
+<br />
+<strong><span style="color: #ff0000;">投票特典</span>のご案内</strong>[spoiler=クリックで展開]
+<strong>投票するともれなく以下の<span style="color: #ff0000;">特典</span>が！</strong><br>
+①<span style="color: #ff00ff;"><strong>ガチャ券が10枚</strong></span>もらえます♡<br />
+②<span style="color: #33cccc;"><strong>効率強化と耐久エンチャント付ダイヤピッケル</strong></span>がもらえます♡<br />
+③<span style="color: #ff0000;"><strong>エフェクトポイント</strong></span>がもらえます♡（投票でしかもらえないゾ！）<br />
+<span style="color: #808080;">※エフェクトポイントはお好きなスキルエフェクトと交換出来ます。</span><br />
+<span style="color: #808080;">※「ユーザー名を通知」にチェックを入れるのを忘れずに！</span><br />
+<span style="color: #808080;">※投票後に木の棒メニューから特典受取ボタンをクリックして下さい。</span><br />
+<span style="color: #808080;">※毎日午前9時になると再度投票が可能になります。</span><br />
+<strong>投票時にログインしている必要はありません。ゲーム内の特典受取ボタンクリック時に、投票した回数分の投票特典をまとめて受け取れます。忙しくて整地鯖に来れない時も1日1クリックしておくと、次回ログイン時に幸せになれます。</strong><br />
+<span style="color: #808080;">※まだ1度も整地鯖に入ったことのない方のみ、一度ログインして整地レベルを1だけでもいいので上げてから投票してください！</span><br />
+<span style="color: #808080;">※運営負担の削減の為、投票特典が正常に受け取れなかった場合の補償は一切行わない方針となりました。何卒ご容赦ください。</span><br />
+[/spoiler]
+<br />
+<strong><span style="color: #ff0000;">[重要]建築方法の仕様変更について</span></strong>[spoiler=クリックで展開]
+第一鯖第二鯖共に、<strong>建築は各種メインワールドで</strong>行う事が出来ます。<br />
+建築の際、<strong><span style="color: #ff0000;">事前の保護設定が必須</span></strong>となっております。<br />
+（保護をかけないと例え未保護の土地であっても編集が一切出来ない仕様です）<br />
+<br />
+これから建築を始める方は<br />
+既存の<strong>保護がない土地を<a href="http://seichi.click/d/DynmapLinks" rel="nofollow">鯖マップ</a>で探して</strong>から<br />
+<strong><a href="http://seichi.click/d/WorldGuard" rel="nofollow">こちらのページ</a>を参考に保護を作成する</strong>と建築可能となります。<br />
+（共同建築を行う際は、作成した保護にコマンドを用いてメンバー追加を行ってください）<br />
+<br />
+また、第一鯖第二鯖共に<strong><span style="color: #ff0000;">保護数の上限は20か所まで</span></strong>となっております。<br />
+21個以上の保護を作成したい場合は<b>審査</b>が必要です(既存の20個の保護を全て活用していることが条件となります)。<br />
+保護の重ね掛けや、範囲の狭い保護を何か所も掛けている等で上限に引っかかった方は保護の整理を行ってください。<br />
+<br />
+このような仕様になったのは、未保護の土地のトラブルが後を絶たず、運営チームの負担増大の要因となっていた為です。継続的な運営を実施する為にやむを得ない措置ですので、お手数おかけしますがご協力お願いします。
+[/spoiler]
+<br />
+<strong>[Tips]混雑時にラグ無く整地する方法</strong>[spoiler=クリックで展開]
+同一鯖の人数が40人を超えると、「食べ物を食べるのが遅くなる」「整地スキルのクールダウン時間が長くなる」といった「ラグ」と呼ばれる症状が発生します。<br />
+これは鯖PCの処理限界によるものではなく、Minecraftのサーバーソフトウェアの処理限界によるもので、いくらサーバーの性能が良くても改善しません。<br />
+当鯖ではこの問題を解決すべく、複数鯖による運営を実施しております。ロビーから入場出来るサバイバル鯖が2つ存在するのはその為です。<br />
+2つのサバイバル鯖はマップやインベントリ等は別々となっておりますが、整地鯖の独自機能の部分（整地レベル、獲得した整地スキル等）は全て共有となっております。つまり第1鯖で掘っても第2鯖で掘っても整地レベルは同様に上昇しますし、第1鯖で獲得したスキル等は全て第2鯖でも使用可能です（もちろん逆も同じ）。<br />
+更に更に、整地レベル16で使用可能になる四次元ポケットを使用すると、第1鯖で使用していたツールやアイテムを第2鯖に持ち込んで使用することも可能です。<br />
+両鯖間はスポーンワールドの地下のゲートを使うか、コマンド（/server <main/main_2>）を用いることで簡単に移動することができます。混雑時は是非是非、当機能を利用して空いている鯖に移動し、快適な整地をお楽しみください。
+[/spoiler]
+<br />
+<strong>公式discordグループを開設しました</strong>[spoiler=クリックで展開]
+誰でもご参加頂ける公式discordグループを開設しました。<br />
+discordグループを用いて、他の参加者とのコミュニケーションをお楽しみ頂けます。また、整地鯖をより良くする為の議論の場としても活用されています。テキストチャットとボイスチャットに対応しています。<br />
+参加する前に<a href="https://docs.google.com/document/d/1bkkm7j8MfCchFS2RarJhvSHTErLVoHqcHDBR9xesJho" rel="nofollow">こちらのルール</a>をお読みください。<br />
+参加する方は以下のURLにアクセスしてください。<br />
+<a href="https://discord.gg/pVq9Ftf" rel="nofollow">https://discord.gg/pVq9Ftf</a>
+[/spoiler]
+<br />
+<strong>寄付の受付及び特典について</strong>[spoiler=クリックで展開]
+皆様のお陰で、当鯖はリニューアルからたった2か月でおすすめサーバー上位にランクインする大規模鯖へと成長することが出来ました。<br />
+急激なトラフィックの増加により、以前の環境ではサーバーを維持する事が難しくなってしまった為、新規回線の契約と、新たなサーバー拠点の整備を随時実施しております。その過程で、初期の導入費用、毎月の維持費等といった費用面の問題が無視出来ない状態となっています。<br />
+この問題を解決する為に、寄付の受付を開始することと致しました。寄付頂いた方には、金額に応じて特典としてプレミアムエフェクトポイントをプレゼントいたします。<br />
+「プレミアムエフェクトポイント」は、お好きな「プレミアムスキルエフェクト」の使用権と交換できます。「プレミアムスキルエフェクト」を使用することで整地スキル発動時の見た目を変えることが出来ます。Mojangの「<a href="https://account.mojang.com/terms#commercial" rel="nofollow">Minecraftの商業目的使用に関するガイドライン</a>」に則る為、見た目が変わるだけで、ゲーム内で有利になる要素は一切ありません。<br />
+もしご協力いただける方がいらっしゃいましたら、<a href="https://goo.gl/forms/W790Zg6l2BexVvf03" rel="nofollow">寄付受付フォーム</a>からお手続き頂けます。<br />
+厚かましいお願いではありますが、ご支援頂けると幸いです。
+[/spoiler]
+<br />
+<strong>コメント欄利用ルール(コメント投稿前に必ずお読みください)</strong>[spoiler=クリックで展開]
+当鯖では、投稿者のプレイヤーネームの把握が容易であることから、本ページのコメント欄を掲示板の代わりとして使用しております。以下のルールを守ってご利用ください。ルールを守れない方はコメント禁止処分とします。<br />
+・Japan Minecraft Network及びJapan Minecraft Serversの利用規約、ルールを遵守願います。<br />
+・当鯖に関係のないコメントはご遠慮ください。<br />
+・投稿前に過去ログをご確認ください。似たような質問が解決しているかもしれません。<br />
+・<b>運営負担の削減の為、投票特典が正常に受け取れなかった場合の補償は一切行わない方針となりました。何卒ご容赦ください。</b><br />
+・質問の際は事前に<b><a href="http://seichi.click" rel="nofollow">公式Wiki</a></b>と<b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b>をご確認ください。<br />
+・運営チームへのセキュアなお問い合わせを希望される方は<b><a href="https://goo.gl/forms/JMv4H13fslU7y9s52" rel="nofollow">お問い合わせフォーム</a></b>をご利用ください。<br />
+・ルール違反者の通報は<b><a href="https://goo.gl/forms/883rfqwHK6urYDtX2" rel="nofollow">通報フォーム</a></b>をご利用ください。<b>当コメント欄にて「○○は荒らしです」等といった発言をしないでください。そのようなコメントは"通報"ではなく"晒し"、つまり"他者への誹謗中傷"に該当すると判断し、例え悪質ではない場合でもコメント禁止処分にする場合があります。</b><br />
+・不具合報告は<b><a href="https://goo.gl/forms/9S0RT0i8ZLDdXODB2" rel="nofollow">不具合報告フォーム</a></b>をご利用ください。<br />
+・当鯖の運営は全てボランティアです。対応の遅れ等があってもどうか察してあげてください。<br />
+・コメントに反応したり、追記したりする場合は返信ボタンを使用してください。<br />
+<br />
+※運営チーム一覧は<a href="http://seichi.click/d/%b1%bf%b1%c4%a5%c1%a1%bc%a5%e0" rel="nofollow">こちら</a>です。管理人のなりすましにご注意ください。
+[/spoiler]
+<br />
+<div style="text-align: right"><b><a href="https://goo.gl/forms/883rfqwHK6urYDtX2" rel="nofollow">通報フォーム</a></b>　<b><a href="https://goo.gl/forms/9S0RT0i8ZLDdXODB2" rel="nofollow">不具合報告フォーム</a></b>　<b><a href="http://seichi.click/d/Discord" rel="nofollow">公式Discordグループ</a></b><br />
+<b><a href="https://goo.gl/forms/sHXtU1vSc6aBB12L2" rel="nofollow">道路整備班申請フォーム</a></b>　<b><a href="https://goo.gl/forms/4cCn8ajrtwhvb6d03" rel="nofollow">農場整備班申請フォーム</a></b><br />
+<strong><a href="https://goo.gl/forms/JMv4H13fslU7y9s52" rel="nofollow">お問い合わせフォーム</a></strong>　<b><a href="https://goo.gl/forms/W790Zg6l2BexVvf03" rel="nofollow">寄付受付フォーム</a></b><br />
+<strong><a href="http://seichi.click" rel="nofollow">公式Wiki</a></strong>　<strong><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></strong>　<strong><a href="http://seichi.click/d/DynmapLinks" rel="nofollow">サーバーマップ</a></strong></div>
+</p>
