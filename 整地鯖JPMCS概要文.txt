@@ -25,7 +25,7 @@
 <strong>『<span style="color: #ff00ff;">ガチャ</span>』で<span style="color: #ff0000;">耐久無限ピッケル</span>をゲット！？</strong>（<a href="http://seichi.click/d/%c0%b0%c3%cf%a5%ac%a5%c1%a5%e3" target="_blank">解説ページ</a>）<br />
 ①<span style="color: #ff9900;"><strong>1000ブロック</strong></span>破壊するごとに<span style="color: #ff00ff;"><strong>ガチャ券</strong></span>が1枚もらえます。<br />
 ②<span style="color: #ff00ff;"><strong>ガチャ券</strong></span>を右クリックするとアイテムGET！<strong>運がいいと<span style="color: #ff0000;">各種レアアイテム</span>がもらえる！？</strong><br />
-※効率よくガチャ券を手に入れるには『<span style="color: #339966;"><strong>整地or資源ワールド</strong></span>』がオススメ！<br />
+※ガチャ券は<span style="color: #339966;"><strong>整地ワールド</strong></span>でのみ貰えます！<br />
 <br />
 <strong>『<span style="color: #ff6600;">整地スキル</span>』で<span style="color: #ff0000;">毎分5000ブロック以上整地</span>出来る！？</strong>（<a href="http://seichi.click/d/%a5%b9%a5%ad%a5%eb%a5%b7%a5%b9%a5%c6%a5%e0" target="_blank">解説ページ</a>）<br />
 整地して<span style="color: #008000;"><strong>整地レベル</strong></span>を上げると<span style="color: #ff00ff;"><b>スキルポイント</b></span>を獲得！<br />
@@ -64,12 +64,11 @@
 （保護をかけないと例え未保護の土地であっても編集が一切出来ない仕様です）<br />
 <br />
 これから建築を始める方は<br />
-既存の<strong>保護がない土地を<a href="http://seichi.click/d/DynmapLinks" rel="nofollow">鯖マップ</a>で探して</strong>から<br />
-<strong><a href="http://seichi.click/d/WorldGuard" rel="nofollow">こちらのページ</a>を参考に保護を作成する</strong>と建築可能となります。<br />
-（共同建築を行う際は、作成した保護にコマンドを用いてメンバー追加を行ってください）<br />
+既存の<strong>保護がない土地を<a href="http://seichi.click/d/DynmapLinks" rel="nofollow">マップ</a>で探して</strong>から<br />
+<strong><a href="http://seichi.click/d/WorldGuard" rel="nofollow">こちらのページ</a>を参考にするか、木の棒メニューからRegionGUI機能を使用して保護を作成する</strong>と建築可能となります。<br />
+（共同建築は、保護にRegionGUI機能かコマンドを用いてメンバー追加をして下さい）<br />
 <br />
-また、第一鯖第二鯖共に<strong><span style="color: #ff0000;">保護数の上限は20か所まで</span></strong>となっております。<br />
-21個以上の保護を作成したい場合は<b>審査</b>が必要です(既存の20個の保護を全て活用していることが条件となります)。<br />
+また、1ワールドにつき<strong><span style="color: #ff0000;">保護数の上限は10か所まで</span></strong>となっております。<br />
 保護の重ね掛けや、範囲の狭い保護を何か所も掛けている等で上限に引っかかった方は保護の整理を行ってください。<br />
 <br />
 このような仕様になったのは、未保護の土地のトラブルが後を絶たず、運営チームの負担増大の要因となっていた為です。継続的な運営を実施する為にやむを得ない措置ですので、お手数おかけしますがご協力お願いします。
@@ -80,7 +79,7 @@
 これは鯖PCの処理限界によるものではなく、Minecraftのサーバーソフトウェアの処理限界によるもので、いくらサーバーの性能が良くても改善しません。<br />
 当鯖ではこの問題を解決すべく、複数鯖による運営を実施しております。ロビーから入場出来るサバイバル鯖が2つ存在するのはその為です。<br />
 2つのサバイバル鯖はマップやインベントリ等は別々となっておりますが、整地鯖の独自機能の部分（整地レベル、獲得した整地スキル等）は全て共有となっております。つまり第1鯖で掘っても第2鯖で掘っても整地レベルは同様に上昇しますし、第1鯖で獲得したスキル等は全て第2鯖でも使用可能です（もちろん逆も同じ）。<br />
-更に更に、整地レベル16で使用可能になる四次元ポケットを使用すると、第1鯖で使用していたツールやアイテムを第2鯖に持ち込んで使用することも可能です。<br />
+更に更に、四次元ポケットを使用すると、第1鯖で使用していたツールやアイテムを第2鯖に持ち込んで使用することも可能です。<br />
 両鯖間はスポーンワールドの地下のゲートを使うか、コマンド（/server <main/main_2>）を用いることで簡単に移動することができます。混雑時は是非是非、当機能を利用して空いている鯖に移動し、快適な整地をお楽しみください。
 [/spoiler]
 <br />
@@ -93,23 +92,25 @@ discordグループを用いて、他の参加者とのコミュニケーショ�
 [/spoiler]
 <br />
 <strong>寄付の受付及び特典について</strong>[spoiler=クリックで展開]
-皆様のお陰で、当鯖はリニューアルからたった2か月でおすすめサーバー上位にランクインする大規模鯖へと成長することが出来ました。<br />
-急激なトラフィックの増加により、以前の環境ではサーバーを維持する事が難しくなってしまった為、新規回線の契約と、新たなサーバー拠点の整備を随時実施しております。その過程で、初期の導入費用、毎月の維持費等といった費用面の問題が無視出来ない状態となっています。<br />
+皆様のお陰で、当鯖はリニューアルからたった3か月でおすすめサーバー1位の大規模鯖へと成長することが出来ました。<br />
+急激なトラフィックの増加により、以前の環境ではサーバーを維持する事が難しくなってしまった為、新規回線の契約と、新たなサーバー拠点の整備を実施致しました。その過程で、初期の導入費用、毎月の維持費等といった費用面の問題が無視出来ない状態となっています。<br />
 この問題を解決する為に、寄付の受付を開始することと致しました。寄付頂いた方には、金額に応じて特典としてプレミアムエフェクトポイントをプレゼントいたします。<br />
 「プレミアムエフェクトポイント」は、お好きな「プレミアムスキルエフェクト」の使用権と交換できます。「プレミアムスキルエフェクト」を使用することで整地スキル発動時の見た目を変えることが出来ます。Mojangの「<a href="https://account.mojang.com/terms#commercial" rel="nofollow">Minecraftの商業目的使用に関するガイドライン</a>」に則る為、見た目が変わるだけで、ゲーム内で有利になる要素は一切ありません。<br />
 もしご協力いただける方がいらっしゃいましたら、<a href="https://goo.gl/forms/W790Zg6l2BexVvf03" rel="nofollow">寄付受付フォーム</a>からお手続き頂けます。<br />
 厚かましいお願いではありますが、ご支援頂けると幸いです。
 [/spoiler]
 <br />
-<strong>コメント欄利用ルール(コメント投稿前に必ずお読みください)</strong>[spoiler=クリックで展開]
+<strong>コメント欄利用ルール<br />
+<span style="color: #ff0000;">※コメント投稿前に必ずお読みください</span></strong>[spoiler=クリックで展開]
 当鯖では、投稿者のプレイヤーネームの把握が容易であることから、本ページのコメント欄を掲示板の代わりとして使用しております。以下のルールを守ってご利用ください。ルールを守れない方はコメント禁止処分とします。<br />
 ・Japan Minecraft Network及びJapan Minecraft Serversの利用規約、ルールを遵守願います。<br />
 ・当鯖に関係のないコメントはご遠慮ください。<br />
 ・投稿前に過去ログをご確認ください。似たような質問が解決しているかもしれません。<br />
 ・<b>運営負担の削減の為、投票特典が正常に受け取れなかった場合の補償は一切行わない方針となりました。何卒ご容赦ください。</b><br />
-・質問の際は事前に<b><a href="http://seichi.click" rel="nofollow">公式Wiki</a></b>と<b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b>をご確認ください。<br />
+・質問の際は事前に<b><a href="http://seichi.click" rel="nofollow">公式Wiki</a></b>と<b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">運営方針とルール</a></b>、<b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b>をご確認ください。<br />
 ・運営チームへのセキュアなお問い合わせを希望される方は<b><a href="https://goo.gl/forms/JMv4H13fslU7y9s52" rel="nofollow">お問い合わせフォーム</a></b>をご利用ください。<br />
 ・ルール違反者の通報は<b><a href="https://goo.gl/forms/883rfqwHK6urYDtX2" rel="nofollow">通報フォーム</a></b>をご利用ください。<b>当コメント欄にて「○○は荒らしです」等といった発言をしないでください。そのようなコメントは"通報"ではなく"晒し"、つまり"他者への誹謗中傷"に該当すると判断し、例え悪質ではない場合でもコメント禁止処分にする場合があります。</b><br />
+・<b>ここは処罰撤回or異議申し立ての場所ではありません。</b><b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">運営方針とルール</a></b>をお読み頂き、指定された場所での申請をお願いします。<br />
 ・不具合報告は<b><a href="https://goo.gl/forms/9S0RT0i8ZLDdXODB2" rel="nofollow">不具合報告フォーム</a></b>をご利用ください。<br />
 ・当鯖の運営は全てボランティアです。対応の遅れ等があってもどうか察してあげてください。<br />
 ・コメントに反応したり、追記したりする場合は返信ボタンを使用してください。<br />
@@ -117,8 +118,12 @@ discordグループを用いて、他の参加者とのコミュニケーショ�
 ※運営チーム一覧は<a href="http://seichi.click/d/%b1%bf%b1%c4%a5%c1%a1%bc%a5%e0" rel="nofollow">こちら</a>です。管理人のなりすましにご注意ください。
 [/spoiler]
 <br />
-<div style="text-align: right"><b><a href="https://goo.gl/forms/883rfqwHK6urYDtX2" rel="nofollow">通報フォーム</a></b>　<b><a href="https://goo.gl/forms/9S0RT0i8ZLDdXODB2" rel="nofollow">不具合報告フォーム</a></b>　<b><a href="http://seichi.click/d/Discord" rel="nofollow">公式Discordグループ</a></b><br />
+<div style="text-align: right">
+<b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">運営方針とルール</a></b>　<b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b>　<b><a href="http://seichi.click/d/Discord" rel="nofollow">Discord</a></b><br />
+<b><a href="https://goo.gl/forms/883rfqwHK6urYDtX2" rel="nofollow">通報フォーム</a></b>　<b><a href="https://goo.gl/forms/9S0RT0i8ZLDdXODB2" rel="nofollow">不具合報告フォーム</a></b><br />
 <b><a href="https://goo.gl/forms/sHXtU1vSc6aBB12L2" rel="nofollow">道路整備班申請フォーム</a></b>　<b><a href="https://goo.gl/forms/4cCn8ajrtwhvb6d03" rel="nofollow">農場整備班申請フォーム</a></b><br />
 <strong><a href="https://goo.gl/forms/JMv4H13fslU7y9s52" rel="nofollow">お問い合わせフォーム</a></strong>　<b><a href="https://goo.gl/forms/W790Zg6l2BexVvf03" rel="nofollow">寄付受付フォーム</a></b><br />
-<strong><a href="http://seichi.click" rel="nofollow">公式Wiki</a></strong>　<strong><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></strong>　<strong><a href="http://seichi.click/d/DynmapLinks" rel="nofollow">サーバーマップ</a></strong></div>
+<strong><a href="http://seichi.click" rel="nofollow">公式Wiki</a></strong>　<strong><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></strong>　<strong><a href="http://seichi.click/d/DynmapLinks" rel="nofollow">サーバーマップ</a></strong><br />
+<b><a href="https://github.com/unchama/info-jpmcs.seichi.click/blob/master/%E6%95%B4%E5%9C%B0%E9%AF%96JPMCS%E6%A6%82%E8%A6%81%E6%96%87.txt" rel="nofollow">この概要文のソースコードを公開しました</a></b>
+</div>
 </p>
