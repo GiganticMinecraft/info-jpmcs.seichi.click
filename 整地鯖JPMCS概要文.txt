@@ -1,11 +1,18 @@
 <p>
 <br>
-<span style="font-size: 26px;"><strong><span style="color: #ff0000;">1.10.xのみログイン可能です</span></strong></span><br>
+<span style="font-size: 26px;"><strong><span style="color: #ff0000;">【1.10.xのみ接続可能です】</span></strong></span><br>
 最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！<br>
 <br>
-<strong><span style="color: #ff0000;">断続的に発生する通信障害について</span></strong>[spoiler=クリックで展開]
-整地鯖ゲームサーバにおいて2016年11月30日午後6時頃より、国外からの攻撃的な大量の不正アクセスによる断続的な通信障害が発生しております。ご迷惑をお掛けして申し訳ありません。運営チームにて可能な限り対策を実施していきます。当障害によりサーバから切断された場合もプレイデータの保存は正常に行われていることを確認しておりますので、サーバにアクセスできなくなった際はしばらく時間を置いてから再度アクセスしてみてください。尚、ホームページ及びDiscordグループ、TeamSpeakサーバへの影響はございません。
+<strong><span style="color: #ff0000;">[重要]断続的に発生する通信障害について</span></strong>[spoiler=クリックで展開]
+2016年11月30日午後6時頃より整地鯖ゲームサーバにおいて、攻撃的な大量不正アクセスによる断続的な通信障害が発生しております。ご迷惑をお掛けして申し訳ありません。運営チームにて可能な限り対策を実施していきます。<br>
+当障害によりサーバから切断されてしまっても、プレイデータの保存は正常に行われていることを確認しております。サーバにアクセスできなくなった際はしばらく時間を置いてから再度アクセスしてみてください。<br>
+尚、ホームページ及びDiscordグループ、TeamSpeakサーバへの影響はございません。<br>
+
 [/spoiler]
+<br>
+<div style="text-align: center;"><span style="font-size: 26px;"><strong>―よろしい、ならば整地だ。</strong></span></div>
+<div style="text-align: center"><span class="postimg"><img src="http://image02.seesaawiki.jp/u/a/unchama/d4c635f287ab424c.gif" alt=""/></span></div>
+<div style="text-align: center"><strong>2016.9.19 大型アップデート スキル大量追加</strong></div>
 <br>
 <strong>接続可能アドレス</strong>[spoiler=クリックで展開]
 以下のいずれかのアドレスで接続可能です。<br />
@@ -14,10 +21,6 @@ play.seichi.click<br />
 minecraftserver.jp<br />
 play.minecraftserver.jp</b><br />
 [/spoiler]
-<br>
-<div style="text-align: center;"><span style="font-size: 26px;"><strong>―よろしい、ならば整地だ。</strong></span></div>
-<div style="text-align: center"><span class="postimg"><img src="http://image02.seesaawiki.jp/u/a/unchama/d4c635f287ab424c.gif" alt=""/></span></div>
-<div style="text-align: center"><strong>2016.9.19 大型アップデート スキル大量追加</strong></div>
 <br />
 <strong><span style="font-size: 18px;">Q：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地鯖</span></span><span style="font-size: 18px;">ってなんぞや？</span></strong>[spoiler=クリックで展開]
 <strong><span style="font-size: 18px;">A：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地</span></span><span style="font-size: 18px;">に特化しすぎた生活鯖です。</span></strong><br />
