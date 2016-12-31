@@ -1,7 +1,7 @@
 <p>
 <br>
-<span style="font-size: 26px;"><strong><span style="color: #ff0000;">【1.10.xのみ接続可能です】</span></strong></span><br>
-最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！<br>
+<span style="font-size: 26px;"><strong><span style="color: #ff0000;">☆1.10～1.10.2のみログイン可能☆</span></strong></span><br>
+最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
 <br>
 <strong><span style="color: #ff0000;">[重要]断続的に発生する通信障害について</span></strong>[spoiler=クリックで展開]
 2016年11月30日午後6時頃より整地鯖ゲームサーバにおいて、攻撃的な大量不正アクセスによる断続的な通信障害が発生しております。ご迷惑をお掛けして申し訳ありません。運営チームにて可能な限り対策を実施していきます。<br>
@@ -10,9 +10,9 @@
 
 [/spoiler]
 <br>
-<div style="text-align: center;"><span style="font-size: 26px;"><strong>―よろしい、ならば整地だ。</strong></span></div>
+<div style="text-align: center;"><span style="font-size: 26px;"><strong>―ハッピー、ニュー、整地。</strong></span></div>
 <div style="text-align: center"><span class="postimg"><img src="http://image02.seesaawiki.jp/u/a/unchama/d4c635f287ab424c.gif" alt=""/></span></div>
-<div style="text-align: center"><strong>2016.9.19 大型アップデート スキル大量追加</strong></div>
+<div style="text-align: center"><strong>2016年は大変お世話になりました。2017年もよろしく🍆</strong></div>
 <br>
 <strong><span style="font-size: 18px;">Q：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地鯖</span></span><span style="font-size: 18px;">ってなんぞや？</span></strong>[spoiler=クリックで展開]
 <strong><span style="font-size: 18px;">A：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地</span></span><span style="font-size: 18px;">に特化しすぎた生活鯖です。</span></strong><br />
@@ -23,7 +23,7 @@
 複数鯖構成により、混雑時でもラグを抑えた快適なプレイ環境を提供します。<br />
 <br />
 <strong>木の棒を右クリックすると<span style="color: #ff00ff;">便利なメニュー画面</span>が開きます！</strong>（<a href="http://seichi.click/d/%a5%e1%a5%cb%a5%e5%a1%bc%b2%e8%cc%cc" target="_blank">解説ページ</a>）<br />
-初めての人は<span style="color: #33cccc;"><strong>ビーコンボタン</span></strong>を押して<span style="color: #008000;"><strong>整地or資源ワールド</span></strong>に行って掘ってみよう！<br />
+初めての人は<span style="color: #33cccc;"><strong>ビーコンボタン</span></strong>を押して<span style="color: #008000;"><strong>整地ワールド</span></strong>に行って掘ってみよう！<br />
 <br />
 <strong>『<span style="color: #ff00ff;">ガチャ</span>』で<span style="color: #ff0000;">耐久無限ピッケル</span>をゲット！？</strong>（<a href="http://seichi.click/d/%c0%b0%c3%cf%a5%ac%a5%c1%a5%e3" target="_blank">解説ページ</a>）<br />
 ①<span style="color: #ff9900;"><strong>1000ブロック</strong></span>破壊するごとに<span style="color: #ff00ff;"><strong>ガチャ券</strong></span>が1枚もらえます。<br />
@@ -60,16 +60,16 @@ play.minecraftserver.jp</b><br />
 ①<span style="color: #ff00ff;"><strong>ガチャ券が10枚</strong></span>もらえます♡<br />
 ②<span style="color: #33cccc;"><strong>効率強化と耐久エンチャント付ダイヤピッケル</strong></span>がもらえます♡<br />
 ③<span style="color: #ff0000;"><strong>エフェクトポイント</strong></span>がもらえます♡（投票でしかもらえないゾ！）<br />
+<strong>投票時にログインしている必要はありません。ゲーム内の特典受取ボタンクリック時に、投票した回数分の投票特典をまとめて受け取れます。忙しくて整地鯖に来れない時も1日1クリックしておくと、次回ログイン時に幸せになれます。</strong><br />
+<span style="color: #808080;">※まだ1度も整地鯖に入ったことのない方のみ、一度ログインして整地レベルを1だけでもいいので上げてから投票してください！</span><br />
 <span style="color: #808080;">※エフェクトポイントはお好きなスキルエフェクトと交換出来ます。</span><br />
 <span style="color: #808080;">※「ユーザー名を通知」にチェックを入れるのを忘れずに！</span><br />
 <span style="color: #808080;">※投票後に木の棒メニューから特典受取ボタンをクリックして下さい。</span><br />
 <span style="color: #808080;">※毎日午前9時になると再度投票が可能になります。</span><br />
-<strong>投票時にログインしている必要はありません。ゲーム内の特典受取ボタンクリック時に、投票した回数分の投票特典をまとめて受け取れます。忙しくて整地鯖に来れない時も1日1クリックしておくと、次回ログイン時に幸せになれます。</strong><br />
-<span style="color: #808080;">※まだ1度も整地鯖に入ったことのない方のみ、一度ログインして整地レベルを1だけでもいいので上げてから投票してください！</span><br />
 <span style="color: #808080;">※運営負担の削減の為、投票特典が正常に受け取れなかった場合の補償は一切行わない方針となりました。何卒ご容赦ください。</span><br />
 [/spoiler]
 <br />
-<strong><span style="color: #ff0000;">[重要]建築方法の仕様変更について</span></strong>[spoiler=クリックで展開]
+<strong>[Tips]建築方法の仕様変更について</strong>[spoiler=クリックで展開]
 第一鯖第二鯖共に、<strong>建築は各種メインワールドで</strong>行う事が出来ます。<br />
 建築の際、<strong><span style="color: #ff0000;">事前の保護設定が必須</span></strong>となっております。<br />
 （保護をかけないと例え未保護の土地であっても編集が一切出来ない仕様です）<br />
@@ -94,7 +94,7 @@ play.minecraftserver.jp</b><br />
 両鯖間はスポーンワールドの地下のゲートを使うか、コマンド（/server <main/main_2>）を用いることで簡単に移動することができます。混雑時は是非是非、当機能を利用して空いている鯖に移動し、快適な整地をお楽しみください。
 [/spoiler]
 <br />
-<strong>公式discordグループを開設しました</strong>[spoiler=クリックで展開]
+<strong>公式discordグループに参加しよう</strong>[spoiler=クリックで展開]
 誰でもご参加頂ける公式discordグループを開設しました。<br />
 discordグループを用いて、他の参加者とのコミュニケーションをお楽しみ頂けます。また、整地鯖をより良くする為の議論の場としても活用されています。テキストチャットとボイスチャットに対応しています。<br />
 参加する前に<a href="https://docs.google.com/document/d/1bkkm7j8MfCchFS2RarJhvSHTErLVoHqcHDBR9xesJho" rel="nofollow">こちらのルール</a>をお読みください。<br />
@@ -102,13 +102,13 @@ discordグループを用いて、他の参加者とのコミュニケーショ�
 <a href="https://discord.gg/pVq9Ftf" rel="nofollow">https://discord.gg/pVq9Ftf</a>
 [/spoiler]
 <br>
-<strong>運営チームのお手伝いさん募集</strong>[spoiler=クリックで展開]
-公式Discordグループにて、運営チームのお手伝いさんの募集を開始しました。<br />
+<strong>運営チームのお手伝い募集</strong>[spoiler=クリックで展開]
+公式Discordグループにて、運営チームのお手伝いの募集を開始しました。<br />
 現在、プレイヤーの人数に対して運営チームメンバーが不足しているのと、運営チームの各メンバーが現実世界に追われている影響で、当鯖の維持と発展に支障が出ており、これを解決することが目的です。<br />
 独自機能開発への参加、Wikiの編集、ルール違反プレイヤーの調査報告等、様々な役職を用意しております。<br />
 興味のある方はDiscordグループに参加してから、ガイドラインをお読みになり申請を行ってください。<br />
-<a href="https://discord.gg/pVq9Ftf" rel="nofollow">Discordグループへの参加はこちら</a><br />
-<a href="https://docs.google.com/document/d/1bkkm7j8MfCchFS2RarJhvSHTErLVoHqcHDBR9xesJho" rel="nofollow">ガイドラインはこちら</a>
+<a href="https://docs.google.com/document/d/1bkkm7j8MfCchFS2RarJhvSHTErLVoHqcHDBR9xesJho" rel="nofollow">ガイドラインはこちら</a><br />
+<a href="https://discord.gg/pVq9Ftf" rel="nofollow">Discordグループへの参加はこちら</a>
 [/spoiler]
 <br />
 <strong>寄付の受付及び特典について</strong>[spoiler=クリックで展開]
