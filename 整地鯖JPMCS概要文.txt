@@ -4,14 +4,12 @@
 最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
 <br>
 <strong><span style="color: #ff0000;">[重要]断続的に発生する通信障害について</span></strong>[spoiler=クリックで展開]
-2016年11月30日午後6時頃より整地鯖ゲームサーバにおいて、攻撃的な大量不正アクセスによる断続的な通信障害が発生しております。ご迷惑をお掛けして申し訳ありません。運営チームにて可能な限り対策を実施していきます。<br>
-当障害によりサーバから切断されてしまっても、プレイデータの保存は正常に行われていることを確認しております。サーバにアクセスできなくなった際はしばらく時間を置いてから再度アクセスしてみてください。<br>
-尚、ホームページ及びDiscordグループ、TeamSpeakサーバへの影響はございません。<br>
-
+2016年11月30日午後6時頃より、ゲームサーバへの攻撃的な大量不正アクセスによる断続的な通信障害が発生しております。プレイヤーの皆様へご迷惑をお掛けしておりますことをお詫び申し上げます。運営チームにて可能な限り対策を実施してまいります。<br>
+当障害によりサーバから切断されてしまっても、プレイデータの保存は正常に行われていることを確認しております。サーバにアクセスできなくなった際はしばらく時間を置いてから再度アクセスしてみてください。
 [/spoiler]
 <br>
 <div style="text-align: center;"><span style="font-size: 26px;"><strong>―ハッピー、ニュー、整地。</strong></span></div>
-<div style="text-align: center"><span class="postimg"><img src="http://image02.seesaawiki.jp/u/a/unchama/d4c635f287ab424c.gif" alt=""/></span></div>
+<div style="text-align: center"><span class="postimg"><img src="https://cdn-proxy.minecraft.jp/image/Zo2A4pYFyLi5Vex-Fz_-tbIVUvM/http%3A%252F%252Fimage01.seesaawiki.jp%252Fu%252Fa%252Funchama%252Ff7ac1266e0b1fcbe.jpg" alt=""/></span></div>
 <div style="text-align: center"><strong>2016年は大変お世話になりました。2017年もよろしく🍆</strong></div>
 <br>
 <strong><span style="font-size: 18px;">Q：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地鯖</span></span><span style="font-size: 18px;">ってなんぞや？</span></strong>[spoiler=クリックで展開]
@@ -47,14 +45,6 @@
 参加される際は、<a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow"><strong>運営方針とルール</strong></a>も併せてご確認ください。
 [/spoiler]
 <br />
-<strong>接続可能アドレス</strong>[spoiler=クリックで展開]
-以下のいずれかのアドレスで接続可能です。<br />
-<b>seichi.click<br />
-play.seichi.click<br />
-minecraftserver.jp<br />
-play.minecraftserver.jp</b><br />
-[/spoiler]
-<br />
 <strong><span style="color: #ff0000;">投票特典</span>のご案内</strong>[spoiler=クリックで展開]
 <strong>投票するともれなく以下の<span style="color: #ff0000;">特典</span>が！</strong><br>
 ①<span style="color: #ff00ff;"><strong>ガチャ券が10枚</strong></span>もらえます♡<br />
@@ -69,31 +59,6 @@ play.minecraftserver.jp</b><br />
 <span style="color: #808080;">※運営負担の削減の為、投票特典が正常に受け取れなかった場合の補償は一切行わない方針となりました。何卒ご容赦ください。</span><br />
 [/spoiler]
 <br />
-<strong>[Tips]建築方法の仕様変更について</strong>[spoiler=クリックで展開]
-第一鯖第二鯖共に、<strong>建築は各種メインワールドで</strong>行う事が出来ます。<br />
-建築の際、<strong><span style="color: #ff0000;">事前の保護設定が必須</span></strong>となっております。<br />
-（保護をかけないと例え未保護の土地であっても編集が一切出来ない仕様です）<br />
-<br />
-これから建築を始める方は<br />
-既存の<strong>保護がない土地を<a href="http://seichi.click/d/DynmapLinks" rel="nofollow">マップ</a>で探して</strong>から<br />
-<strong><a href="http://seichi.click/d/WorldGuard" rel="nofollow">こちらのページ</a>を参考にするか、木の棒メニューからRegionGUI機能を使用して保護を作成する</strong>と建築可能となります。<br />
-（共同建築は、保護にRegionGUI機能かコマンドを用いてメンバー追加をして下さい）<br />
-<br />
-また、1ワールドにつき<strong><span style="color: #ff0000;">保護数の上限は10か所まで</span></strong>となっております。<br />
-保護の重ね掛けや、範囲の狭い保護を何か所も掛けている等で上限に引っかかった方は保護の整理を行ってください。<br />
-<br />
-このような仕様になったのは、未保護の土地のトラブルが後を絶たず、運営チームの負担増大の要因となっていた為です。継続的な運営を実施する為にやむを得ない措置ですので、お手数おかけしますがご協力お願いします。
-[/spoiler]
-<br />
-<strong>[Tips]混雑時にラグ無く整地する方法</strong>[spoiler=クリックで展開]
-同一鯖の人数が40人を超えると、「食べ物を食べるのが遅くなる」「整地スキルのクールダウン時間が長くなる」といった「ラグ」と呼ばれる症状が発生します。<br />
-これは鯖PCの処理限界によるものではなく、Minecraftのサーバーソフトウェアの処理限界によるもので、いくらサーバーの性能が良くても改善しません。<br />
-当鯖ではこの問題を解決すべく、複数鯖による運営を実施しております。ロビーから入場出来るサバイバル鯖が2つ存在するのはその為です。<br />
-2つのサバイバル鯖はマップやインベントリ等は別々となっておりますが、整地鯖の独自機能の部分（整地レベル、獲得した整地スキル等）は全て共有となっております。つまり第1鯖で掘っても第2鯖で掘っても整地レベルは同様に上昇しますし、第1鯖で獲得したスキル等は全て第2鯖でも使用可能です（もちろん逆も同じ）。<br />
-更に更に、四次元ポケットを使用すると、第1鯖で使用していたツールやアイテムを第2鯖に持ち込んで使用することも可能です。<br />
-両鯖間はスポーンワールドの地下のゲートを使うか、コマンド（/server <main/main_2>）を用いることで簡単に移動することができます。混雑時は是非是非、当機能を利用して空いている鯖に移動し、快適な整地をお楽しみください。
-[/spoiler]
-<br />
 <strong>公式discordグループに参加しよう</strong>[spoiler=クリックで展開]
 誰でもご参加頂ける公式discordグループを開設しました。<br />
 discordグループを用いて、他の参加者とのコミュニケーションをお楽しみ頂けます。また、整地鯖をより良くする為の議論の場としても活用されています。テキストチャットとボイスチャットに対応しています。<br />
@@ -106,13 +71,11 @@ discordグループを用いて、他の参加者とのコミュニケーショ�
 公式Discordグループにて、運営チームのお手伝いの募集を開始しました。<br />
 現在、プレイヤーの人数に対して運営チームメンバーが不足しているのと、運営チームの各メンバーが現実世界に追われている影響で、当鯖の維持と発展に支障が出ており、これを解決することが目的です。<br />
 独自機能開発への参加、Wikiの編集、ルール違反プレイヤーの調査報告等、様々な役職を用意しております。<br />
-興味のある方はDiscordグループに参加してから、ガイドラインをお読みになり申請を行ってください。<br />
-<a href="https://docs.google.com/document/d/1bkkm7j8MfCchFS2RarJhvSHTErLVoHqcHDBR9xesJho" rel="nofollow">ガイドラインはこちら</a><br />
-<a href="https://discord.gg/pVq9Ftf" rel="nofollow">Discordグループへの参加はこちら</a>
+興味のある方は<a href="https://discord.gg/pVq9Ftf" rel="nofollow">Discordグループに参加</a>してから、ガイドラインをお読みになり申請を行ってください。
 [/spoiler]
 <br />
 <strong>寄付の受付及び特典について</strong>[spoiler=クリックで展開]
-皆様のお陰で、当鯖はリニューアルからたった3か月でおすすめサーバー1位の大規模鯖へと成長することが出来ました。<br />
+皆様のお陰で、当鯖はリニューアルからたった3か月でおすすめサーバー1位の大規模サーバへと成長することが出来ました。<br />
 急激なトラフィックの増加により、以前の環境ではサーバーを維持する事が難しくなってしまった為、新規回線の契約と、新たなサーバー拠点の整備を実施致しました。その過程で、初期の導入費用、毎月の維持費等といった費用面の問題が無視出来ない状態となっています。<br />
 この問題を解決する為に、寄付の受付を開始することと致しました。寄付頂いた方には、金額に応じて特典としてプレミアムエフェクトポイントをプレゼントいたします。<br />
 「プレミアムエフェクトポイント」は、お好きな「プレミアムスキルエフェクト」の使用権と交換できます。「プレミアムスキルエフェクト」を使用することで整地スキル発動時の見た目を変えることが出来ます。Mojangの「<a href="https://account.mojang.com/terms#commercial" rel="nofollow">Minecraftの商業目的使用に関するガイドライン</a>」に則る為、見た目が変わるだけで、ゲーム内で有利になる要素は一切ありません。<br />
