@@ -1,5 +1,6 @@
 <p>
 <br>
+<br>
 <span style="font-size: 26px;"><strong><span style="color: #ff0000;">☆1.10～1.10.2のみログイン可能☆</span></strong></span><br>
 最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
 <br>
@@ -81,24 +82,6 @@ discordグループを用いて、他の参加者とのコミュニケーショ�
 「プレミアムエフェクトポイント」は、お好きな「プレミアムスキルエフェクト」の使用権と交換できます。「プレミアムスキルエフェクト」を使用することで整地スキル発動時の見た目を変えることが出来ます。Mojangの「<a href="https://account.mojang.com/terms#commercial" rel="nofollow">Minecraftの商業目的使用に関するガイドライン</a>」に則る為、見た目が変わるだけで、ゲーム内で有利になる要素は一切ありません。<br />
 もしご協力いただける方がいらっしゃいましたら、<a href="https://goo.gl/forms/W790Zg6l2BexVvf03" rel="nofollow">寄付受付フォーム</a>からお手続き頂けます。<br />
 厚かましいお願いではありますが、ご支援頂けると幸いです。
-[/spoiler]
-<br />
-<strong>コメント欄利用ルール<br />
-<span style="color: #ff0000;">※コメント投稿前に必ずお読みください</span></strong>[spoiler=クリックで展開]
-当鯖では、投稿者のプレイヤーネームの把握が容易であることから、本ページのコメント欄を掲示板の代わりとして使用しております。以下のルールを守ってご利用ください。ルールを守れない方はコメント禁止処分とします。<br />
-・Japan Minecraft Network及びJapan Minecraft Serversの利用規約、ルールを遵守願います。<br />
-・当鯖に関係のないコメントはご遠慮ください。<br />
-・投稿前に過去ログをご確認ください。似たような質問が解決しているかもしれません。<br />
-・<b>運営負担の削減の為、投票特典が正常に受け取れなかった場合の補償は一切行わない方針となりました。何卒ご容赦ください。</b><br />
-・質問の際は事前に<b><a href="http://seichi.click" rel="nofollow">公式Wiki</a></b>と<b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">運営方針とルール</a></b>、<b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b>をご確認ください。<br />
-・運営チームへのセキュアなお問い合わせを希望される方は<b><a href="https://goo.gl/forms/JMv4H13fslU7y9s52" rel="nofollow">お問い合わせフォーム</a></b>をご利用ください。<br />
-・ルール違反者の通報は<b><a href="https://goo.gl/forms/883rfqwHK6urYDtX2" rel="nofollow">通報フォーム</a></b>をご利用ください。<b>当コメント欄にて「○○は荒らしです」等といった発言をしないでください。そのようなコメントは"通報"ではなく"晒し"、つまり"他者への誹謗中傷"に該当すると判断し、例え悪質ではない場合でもコメント禁止処分にする場合があります。</b><br />
-・<b>ここは処罰撤回or異議申し立ての場所ではありません。</b><b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">運営方針とルール</a></b>をお読み頂き、指定された場所での申請をお願いします。<br />
-・不具合報告は<b><a href="https://goo.gl/forms/9S0RT0i8ZLDdXODB2" rel="nofollow">不具合報告フォーム</a></b>をご利用ください。<br />
-・当鯖の運営は全てボランティアです。対応の遅れ等があってもどうか察してあげてください。<br />
-・コメントに反応したり、追記したりする場合は返信ボタンを使用してください。<br />
-<br />
-※運営チーム一覧は<a href="http://seichi.click/d/%b1%bf%b1%c4%a5%c1%a1%bc%a5%e0" rel="nofollow">こちら</a>です。管理人のなりすましにご注意ください。
 [/spoiler]
 <br />
 <div style="text-align: right">
