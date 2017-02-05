@@ -86,10 +86,7 @@ discordグループを用いて、他の参加者とのコミュニケーショ�
 <br />
 <div style="text-align: right">
 <b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">運営方針とルール</a></b>　<b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b>　<b><a href="http://seichi.click/d/Discord" rel="nofollow">Discord</a></b><br />
-<b><a href="https://goo.gl/forms/883rfqwHK6urYDtX2" rel="nofollow">通報フォーム</a></b>　<b><a href="https://goo.gl/forms/9S0RT0i8ZLDdXODB2" rel="nofollow">不具合報告フォーム</a></b><br />
-<b><a href="https://goo.gl/forms/sHXtU1vSc6aBB12L2" rel="nofollow">道路整備班申請フォーム</a></b>　<b><a href="https://goo.gl/forms/GecSKcfMF58I3uti2" rel="nofollow">TT建築許可申請フォーム</a></b><br />
-<strong><a href="https://goo.gl/forms/JMv4H13fslU7y9s52" rel="nofollow">お問い合わせフォーム</a></strong>　<b><a href="https://goo.gl/forms/W790Zg6l2BexVvf03" rel="nofollow">寄付受付フォーム</a></b><br />
-<b><a href="https://goo.gl/forms/J82O3Fn7e1HIDADw1" rel="nofollow">ご意見・ご感想・新規機能リクエストフォーム</a></b><br />
+<b><a href="http://seichi.click/d/%a4%aa%cc%e4%a4%a4%b9%e7%a4%ef%a4%bb" rel="nofollow">運営チームへのお問い合わせ</a></b><br />
 <strong><a href="http://seichi.click" rel="nofollow">公式Wiki</a></strong>　<strong><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></strong>　<strong><a href="http://seichi.click/d/DynmapLinks" rel="nofollow">サーバーマップ</a></strong><br />
 <b><a href="https://github.com/unchama/info-jpmcs.seichi.click/blob/master/%E6%95%B4%E5%9C%B0%E9%AF%96JPMCS%E6%A6%82%E8%A6%81%E6%96%87.txt" rel="nofollow">この概要文のソースコードを公開しました</a></b>
 </div>
