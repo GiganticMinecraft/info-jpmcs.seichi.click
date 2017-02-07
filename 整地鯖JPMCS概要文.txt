@@ -1,5 +1,5 @@
 <p>
-<br>
+　<br>
 <br>
 <span style="font-size: 26px;"><strong><span style="color: #ff0000;">☆1.10～1.10.2のみログイン可能☆</span></strong></span><br>
 最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
@@ -9,9 +9,7 @@
 当障害によりサーバから切断されてしまっても、プレイデータの保存は正常に行われていることを確認しております。サーバにアクセスできなくなった際はしばらく時間を置いてから再度アクセスしてみてください。
 [/spoiler]
 <br>
-<div style="text-align: center;"><span style="font-size: 26px;"><strong>―ハッピー、ニュー、整地。</strong></span></div>
-<div style="text-align: center"><span class="postimg"><img src="http://image01.seesaawiki.jp/u/a/unchama/f7ac1266e0b1fcbe.jpg" alt=""/></span></div>
-<div style="text-align: center"><strong>2016年は大変お世話になりました。2017年もよろしく🍆</strong></div>
+<div style="text-align: center"><span class="postimg"><img src="https://i.gyazo.com/db72c76df3defaf7022c62946358a202.jpg" alt=""/></span></div>
 <br>
 <strong><span style="font-size: 18px;">Q：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地鯖</span></span><span style="font-size: 18px;">ってなんぞや？</span></strong>[spoiler=クリックで展開]
 <strong><span style="font-size: 18px;">A：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地</span></span><span style="font-size: 18px;">に特化しすぎた生活鯖です。</span></strong><br />
