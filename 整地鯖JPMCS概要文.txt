@@ -1,11 +1,11 @@
 <p>
-　<br>
+<b>クイックアクセス</b> / <b><a href="http://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">サーバールール</a></b> / <b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b> / <b><a href="http://seichi.click/d/%a4%aa%cc%e4%a4%a4%b9%e7%a4%ef%a4%bb" rel="nofollow">お問い合わせ</a></b> / <b><a href="http://seichi.click/d/%b4%fb%c3%ce%a4%ce%c9%d4%b6%f1%b9%e7" rel="nofollow">既知の不具合</a></b> / <b><a href="http://seichi.click/d/Update" rel="nofollow">アップデート履歴</a></b> / <b><a href="http://seichi.click/d/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="http://seichi.click/d/DynmapLinks" rel="nofollow">サーバーマップ</a></b><br>
+<br>
+<div style="text-align: center"><span class="postimg"><img src="https://i.gyazo.com/db72c76df3defaf7022c62946358a202.jpg" alt=""/></span></div>
 <br>
 <span style="font-size: 26px;"><strong><span style="color: #ff0000;">対応バージョンは1.10～1.10.2です！</span></strong></span><br>
 最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
 <b>サーバアドレスはwebサイトをご覧ください。</b><br>
-<br>
-<div style="text-align: center"><span class="postimg"><img src="https://i.gyazo.com/db72c76df3defaf7022c62946358a202.jpg" alt=""/></span></div>
 <br>
 <strong><span style="font-size: 18px;">Q：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地鯖</span></span><span style="font-size: 18px;">ってなんぞや？</span></strong>[spoiler=クリックで展開]
 <strong><span style="font-size: 18px;">A：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地</span></span><span style="font-size: 18px;">に特化しすぎた生活鯖です。</span></strong><br />
@@ -83,10 +83,4 @@ discordグループを用いて、他の参加者とのコミュニケーショ�
 厚かましいお願いではありますが、ご支援頂けると幸いです。
 [/spoiler]
 <br />
-<div style="text-align: right">
-<b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">運営方針とルール</a></b>　<b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b>　<b><a href="http://seichi.click/d/Discord" rel="nofollow">Discord</a></b><br />
-<b><a href="http://seichi.click/d/%a4%aa%cc%e4%a4%a4%b9%e7%a4%ef%a4%bb" rel="nofollow">運営チームへのお問い合わせ</a></b><br />
-<strong><a href="http://seichi.click" rel="nofollow">公式Wiki</a></strong>　<strong><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></strong>　<strong><a href="http://seichi.click/d/DynmapLinks" rel="nofollow">サーバーマップ</a></strong><br />
-<b><a href="https://github.com/unchama/info-jpmcs.seichi.click/blob/master/%E6%95%B4%E5%9C%B0%E9%AF%96JPMCS%E6%A6%82%E8%A6%81%E6%96%87.txt" rel="nofollow">この概要文のソースコードを公開しました</a></b>
-</div>
 </p>
