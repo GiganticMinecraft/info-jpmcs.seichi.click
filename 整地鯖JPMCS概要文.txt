@@ -57,16 +57,15 @@
 <strong>公式discordグループに参加しよう</strong>[spoiler=クリックで展開]
 誰でもご参加頂ける公式discordグループを開設しました。<br />
 discordグループを用いて、他の参加者とのコミュニケーションをお楽しみ頂けます。また、整地鯖をより良くする為の議論の場としても活用されています。テキストチャットとボイスチャットに対応しています。<br />
-参加する前に<a href="https://docs.google.com/document/d/1bkkm7j8MfCchFS2RarJhvSHTErLVoHqcHDBR9xesJho" rel="nofollow">こちらのルール</a>をお読みください。<br />
-参加する方は以下のURLにアクセスしてください。<br />
-<a href="https://discord.gg/pVq9Ftf" rel="nofollow">https://discord.gg/pVq9Ftf</a>
+参加する前に<a href="https://goo.gl/5Or32K" rel="nofollow">こちらのルール</a>をお読みください。<br />
+参加する方は<a href="https://discord.gg/pVq9Ftf" rel="nofollow">こちらをクリック</a>してください。
 [/spoiler]
 <br>
 <strong>運営チームのお手伝い募集</strong>[spoiler=クリックで展開]
 公式Discordグループにて、運営チームのお手伝いの募集を開始しました。<br />
 現在、プレイヤーの人数に対して運営チームメンバーが不足しているのと、運営チームの各メンバーが現実世界に追われている影響で、当鯖の維持と発展に支障が出ており、これを解決することが目的です。<br />
 独自機能開発への参加、Wikiの編集、ルール違反プレイヤーの調査報告等、様々な役職を用意しております。<br />
-興味のある方は<a href="https://discord.gg/pVq9Ftf" rel="nofollow">Discordグループに参加</a>してから、ガイドラインをお読みになり申請を行ってください。
+興味のある方は<a href="https://discord.gg/pVq9Ftf" rel="nofollow">Discordグループに参加</a>してから、<a href="https://goo.gl/CWz4OS" rel="nofollow">お手伝い権限ガイドライン</a>をお読みになり申請を行ってください。
 [/spoiler]
 <br />
 <strong><span style="color: #ff0000;">断続的に発生する通信障害について</span></strong>[spoiler=クリックで展開]
