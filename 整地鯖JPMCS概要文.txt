@@ -5,7 +5,7 @@
 <br>
 <span style="font-size: 26px;"><strong><span style="color: #ff0000;">対応バージョンは1.10～1.10.2です！</span></strong></span><br>
 最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
-<b>サーバアドレスはwebサイトをご覧ください。</b><br>
+<b>サーバアドレスは<a href="http://seichi.click" rel="nofollow">webサイト(公式wiki)</a>をご覧ください。</b><br>
 <br>
 <strong><span style="font-size: 18px;">Q：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地鯖</span></span><span style="font-size: 18px;">ってなんぞや？</span></strong>[spoiler=クリックで展開]
 <strong><span style="font-size: 18px;">A：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地</span></span><span style="font-size: 18px;">に特化しすぎた生活鯖です。</span></strong><br />
@@ -34,8 +34,8 @@
 <b>MOD無しで『<span style="color: #993300;">StorageBox</span>』が使える！？</b><br />
 整地して<span style="color: #008000;"><strong>整地レベル</strong></span>を上げると<span style="color: #ff00ff;"><b>様々な便利機能</b></span>が解禁！<br />
 ・特定ブロックを<span style="color: #ff0000;"><b>無限スタック</b></span>出来る『<b>MineStack</b>』（<a href="http://seichi.click/d/MineStack" target="_blank">解説ページ</a>）<br />
-・どこでも出し入れ自由な<span style="color: #ff0000;"><b>拡張インベントリ</b></span>『<b>四次元ポケット</b>』<br />
-・経験値消費でいつでも<span style="color: #ff0000;"><b>クリエイティブモードのような飛行</b></span>『<b>タケコプター</b>』（<a href="http://seichi.click/d/LeftMENU" target="_blank">解説ページ</a>）<br />
+・どこでも出し入れ自由な<span style="color: #ff0000;"><b>拡張インベントリ機能</b></span><br />
+・経験値消費でいつでも<span style="color: #ff0000;"><b>クリエイティブモードのような飛行</b></span>（<a href="http://seichi.click/d/LeftMENU" target="_blank">解説ページ</a>）<br />
 <br />
 参加される際は、<a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow"><strong>運営方針とルール</strong></a>も併せてご確認ください。
 [/spoiler]
