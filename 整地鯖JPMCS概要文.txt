@@ -1,7 +1,13 @@
 <p>
-<b>クイックアクセス</b> / <b><a href="http://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">サーバールール</a></b> / <b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b> / <b><a href="http://seichi.click/d/%a4%aa%cc%e4%a4%a4%b9%e7%a4%ef%a4%bb" rel="nofollow">お問い合わせ</a></b> / <b><a href="http://seichi.click/d/%b4%fb%c3%ce%a4%ce%c9%d4%b6%f1%b9%e7" rel="nofollow">既知の不具合</a></b> / <b><a href="http://seichi.click/d/Update" rel="nofollow">アップデート履歴</a></b> / <b><a href="http://seichi.click/d/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="http://seichi.click/d/DynmapLinks" rel="nofollow">サーバーマップ</a></b><br>
+　<br />
+<span style="font-size: 26px;"><strong><span style="color: #ff0000;">1周年記念イベント開催！詳しくは<a href="http://seichi.click/d/anniversary" rel="nofollow">こちら</a></span></strong></span><br>
+<b>6月29日までにレベルを1以上上げたプレイヤー全員にガチャ券1001枚をプレゼントします！</b><br />
+　<br />
+</p>
+<p>
+<b>クイックアクセス</b> / <b><a href="http://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">サーバールール</a></b> / <b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b> / <b><a href="http://seichi.click/d/%a4%aa%cc%e4%a4%a4%b9%e7%a4%ef%a4%bb" rel="nofollow">お問い合わせ</a></b> / <b><a href="http://seichi.click/d/%b4%fb%c3%ce%a4%ce%c9%d4%b6%f1%b9%e7" rel="nofollow">既知の不具合</a></b> / <b><a href="http://seichi.click/d/Update" rel="nofollow">アップデート履歴</a></b> / <b><a href="http://seichi.click/d/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="http://seichi.click/d/DynmapLinks" rel="nofollow">サーバーマップ</a></b>
 <br>
-<div style="text-align: center"><span class="postimg"><img src="https://i.gyazo.com/db72c76df3defaf7022c62946358a202.jpg" alt=""/></span></div>
+<div style="text-align: center"><span class="postimg"><img src="https://i.gyazo.com/799031636a4a89786008345da44dcd9a.png" alt=""/></span></div>
 <br>
 <span style="font-size: 26px;"><strong><span style="color: #ff0000;">対応バージョンは1.10～1.10.2です！</span></strong></span><br>
 最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
@@ -68,18 +74,16 @@ discordグループを用いて、他の参加者とのコミュニケーショ�
 興味のある方は<a href="https://discord.gg/pVq9Ftf" rel="nofollow">Discordグループに参加</a>してから、<a href="https://goo.gl/CWz4OS" rel="nofollow">お手伝い権限ガイドライン</a>をお読みになり申請を行ってください。
 [/spoiler]
 <br />
-<strong><span style="color: #ff0000;">断続的に発生する通信障害について</span></strong>[spoiler=クリックで展開]
-2016年11月30日午後6時頃より、ゲームサーバへの攻撃的な大量不正アクセスによる断続的な通信障害が発生しております。プレイヤーの皆様へご迷惑をお掛けしておりますことをお詫び申し上げます。運営チームにて可能な限り対策を実施してまいります。<br>
-当障害によりサーバから切断されてしまっても、プレイデータの保存は正常に行われていることを確認しております。サーバにアクセスできなくなった際はしばらく時間を置いてから再度アクセスしてみてください。
-[/spoiler]
-<br>
-<strong>寄付の受付及び特典について</strong>[spoiler=クリックで展開]
+<strong><span style="color: #0000ff;">寄付の受付及び特典について</strong></span><br>
+<a href="https://goo.gl/forms/W790Zg6l2BexVvf03" rel="nofollow">Amazonギフト券・銀行振込決済はこちら</a>(手動処理の為特典反映までお時間を頂きます)<br>
+<a href="https://seichi.buycraft.net" rel="nofollow">PayPal決済はこちら</a>(自動処理の為、寄付するとすぐに特典を利用可能です)<br />
+[spoiler=寄付について：クリックで展開]
 皆様のお陰で、当鯖はリニューアルからたった3か月でおすすめサーバー1位の大規模サーバへと成長することが出来ました。<br />
 急激なトラフィックの増加により、以前の環境ではサーバーを維持する事が難しくなってしまった為、新規回線の契約と、新たなサーバー拠点の整備を実施致しました。その過程で、初期の導入費用、毎月の維持費等といった費用面の問題が無視出来ない状態となっています。<br />
 この問題を解決する為に、寄付の受付を開始することと致しました。寄付頂いた方には、金額に応じて特典としてプレミアムエフェクトポイントをプレゼントいたします。<br />
 「プレミアムエフェクトポイント」は、お好きな「プレミアムスキルエフェクト」の使用権と交換できます。「プレミアムスキルエフェクト」を使用することで整地スキル発動時の見た目を変えることが出来ます。Mojangの「<a href="https://account.mojang.com/terms#commercial" rel="nofollow">Minecraftの商業目的使用に関するガイドライン</a>」に則る為、見た目が変わるだけで、ゲーム内で有利になる要素は一切ありません。<br />
-もしご協力いただける方がいらっしゃいましたら、<a href="https://goo.gl/forms/W790Zg6l2BexVvf03" rel="nofollow">寄付受付フォーム</a>からお手続き頂けます。<br />
-厚かましいお願いではありますが、ご支援頂けると幸いです。
+もしご協力いただける方がいらっしゃいましたら、上記URLからお手続き頂けます。<br />
+厚かましいお願いではありますが、ご支援頂けると幸いです。<br />
 [/spoiler]
 <br />
 </p>
