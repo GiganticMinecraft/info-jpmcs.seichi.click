@@ -1,17 +1,14 @@
 <p>
 　<br />
-<span style="font-size: 26px;"><strong><span style="color: #ff0000;">1周年記念イベント開催！詳しくは<a href="http://seichi.click/d/anniversary" rel="nofollow">こちら</a></span></strong></span><br>
-<b>6月29日までにレベルを1以上上げたプレイヤー全員にガチャ券1001枚をプレゼントします！</b><br />
-　<br />
-</p>
-<p>
-<b>クイックアクセス</b> / <b><a href="http://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">サーバールール</a></b> / <b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b> / <b><a href="http://seichi.click/d/%a4%aa%cc%e4%a4%a4%b9%e7%a4%ef%a4%bb" rel="nofollow">お問い合わせ</a></b> / <b><a href="http://seichi.click/d/%b4%fb%c3%ce%a4%ce%c9%d4%b6%f1%b9%e7" rel="nofollow">既知の不具合</a></b> / <b><a href="http://seichi.click/d/Update" rel="nofollow">アップデート履歴</a></b> / <b><a href="http://seichi.click/d/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="http://seichi.click/d/DynmapLinks" rel="nofollow">サーバーマップ</a></b>
-<br>
-<div style="text-align: center"><span class="postimg"><img src="https://i.gyazo.com/799031636a4a89786008345da44dcd9a.png" alt=""/></span></div>
-<br>
 <span style="font-size: 26px;"><strong><span style="color: #ff0000;">対応バージョンは1.10～1.10.2です！</span></strong></span><br>
 最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
 <b>サーバアドレスは<a href="http://seichi.click" rel="nofollow">webサイト(公式wiki)</a>をご覧ください。</b><br>
+<br>
+<span style="font-size: 20px;"><strong><span style="color: #ff0000;">各種ランキングをwebで確認可能になりました！<a href="http://w4.minecraftserver.jp/" rel="nofollow">こちら</a></span></strong></span><br>
+<br>
+<b>クイックアクセス</b> / <b><a href="http://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">サーバールール</a></b> / <b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b> / <b><a href="http://seichi.click/d/%a4%aa%cc%e4%a4%a4%b9%e7%a4%ef%a4%bb" rel="nofollow">お問い合わせ</a></b> / <b><a href="http://seichi.click/d/%b4%fb%c3%ce%a4%ce%c9%d4%b6%f1%b9%e7" rel="nofollow">既知の不具合</a></b> / <b><a href="http://seichi.click/d/Update" rel="nofollow">アップデート履歴</a></b> / <b><a href="http://seichi.click/d/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="http://seichi.click/d/DynmapLinks" rel="nofollow">サーバーマップ</a></b> / <b><a href="http://w4.minecraftserver.jp/" rel="nofollow">ランキング</a></b>
+<br>
+<div style="text-align: center"><span class="postimg"><img src="https://i.gyazo.com/799031636a4a89786008345da44dcd9a.png" alt=""/></span></div>
 <br>
 <strong><span style="font-size: 18px;">Q：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地鯖</span></span><span style="font-size: 18px;">ってなんぞや？</span></strong>[spoiler=クリックで展開]
 <strong><span style="font-size: 18px;">A：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地</span></span><span style="font-size: 18px;">に特化しすぎた生活鯖です。</span></strong><br />
@@ -69,14 +66,14 @@ discordグループを用いて、他の参加者とのコミュニケーショ�
 <br>
 <strong>運営チームのお手伝い募集</strong>[spoiler=クリックで展開]
 公式Discordグループにて、運営チームのお手伝いの募集を開始しました。<br />
-現在、プレイヤーの人数に対して運営チームメンバーが不足しているのと、運営チームの各メンバーが現実世界に追われている影響で、当鯖の維持と発展に支障が出ており、これを解決することが目的です。<br />
-独自機能開発への参加、Wikiの編集、ルール違反プレイヤーの調査報告等、様々な役職を用意しております。<br />
+現在、プレイヤーの人数に対して運営チームメンバーが不足しているのと、運営チームの各メンバーが現実世界に追われている影響で、当サーバの維持と発展に支障が出ており、これを解決することが目的です。<br />
+独自機能開発やweb開発への参加、Wikiの編集、保護領域の整理等、様々な役職を用意しております。<br />
 興味のある方は<a href="https://discord.gg/pVq9Ftf" rel="nofollow">Discordグループに参加</a>してから、<a href="https://goo.gl/CWz4OS" rel="nofollow">お手伝い権限ガイドライン</a>をお読みになり申請を行ってください。
 [/spoiler]
 <br />
 <strong><span style="color: #0000ff;">寄付の受付及び特典について</strong></span><br>
 <a href="https://goo.gl/forms/W790Zg6l2BexVvf03" rel="nofollow">Amazonギフト券・銀行振込決済はこちら</a>(手動処理の為特典反映までお時間を頂きます)<br>
-<a href="https://seichi.buycraft.net" rel="nofollow">PayPal決済はこちら</a>(自動処理の為、寄付するとすぐに特典を利用可能です)<br />
+<a href="https://seichi.buycraft.net" rel="nofollow">PayPal決済はこちら</a>(自動処理の為、寄付するとすぐに特典を利用可能です)<br>
 [spoiler=寄付について：クリックで展開]
 皆様のお陰で、当鯖はリニューアルからたった3か月でおすすめサーバー1位の大規模サーバへと成長することが出来ました。<br />
 急激なトラフィックの増加により、以前の環境ではサーバーを維持する事が難しくなってしまった為、新規回線の契約と、新たなサーバー拠点の整備を実施致しました。その過程で、初期の導入費用、毎月の維持費等といった費用面の問題が無視出来ない状態となっています。<br />
@@ -85,5 +82,9 @@ discordグループを用いて、他の参加者とのコミュニケーショ�
 もしご協力いただける方がいらっしゃいましたら、上記URLからお手続き頂けます。<br />
 厚かましいお願いではありますが、ご支援頂けると幸いです。<br />
 [/spoiler]
+<br>
+2017年8月現在、サーバの維持には毎月約20000円の費用が掛かっております。<br />
+しかしながら、皆様からの温かいご支援のお陰で、オープンから1年以上にわたってこの大規模サーバを維持することが出来ています。この場をお借りして感謝申し上げます。<br />
+頂いた寄付は今後の整地鯖の維持と発展の為に使用させて頂きます。<br />
 <br />
 </p>
