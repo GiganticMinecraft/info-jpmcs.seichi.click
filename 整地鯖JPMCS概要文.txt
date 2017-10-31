@@ -1,22 +1,20 @@
 <p>
 　<br />
-<span style="font-size: 26px;"><strong><span style="color: #ff0000;">対応バージョンは1.10～1.10.2です！</span></strong></span><br>
+<span style="font-size: 26px;"><strong><span style="color: #ff0000;">対応ver：1.10～1.10.2</span></strong></span><br>
 最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
-<b>サーバアドレスは<a href="http://seichi.click" rel="nofollow">webサイト(公式wiki)</a>をご覧ください。</b><br>
+<b>サーバアドレスは<a href="http://seichi.click" rel="nofollow">webサイト(公式wiki)</a>にてご確認下さい。</b><br>
 <br>
-<span style="font-size: 20px;"><strong><span style="color: #ff0000;">各種ランキングをwebで確認可能になりました！<a href="http://w4.minecraftserver.jp/" rel="nofollow">こちら</a></span></strong></span><br>
-<br>
-<b>クイックアクセス</b> / <b><a href="http://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">サーバールール</a></b> / <b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b> / <b><a href="http://seichi.click/d/%a4%aa%cc%e4%a4%a4%b9%e7%a4%ef%a4%bb" rel="nofollow">お問い合わせ</a></b> / <b><a href="http://seichi.click/d/%b4%fb%c3%ce%a4%ce%c9%d4%b6%f1%b9%e7" rel="nofollow">既知の不具合</a></b> / <b><a href="http://seichi.click/d/Update" rel="nofollow">アップデート履歴</a></b> / <b><a href="http://seichi.click/d/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="http://seichi.click/d/DynmapLinks" rel="nofollow">サーバーマップ</a></b> / <b><a href="http://w4.minecraftserver.jp/" rel="nofollow">ランキング</a></b>
+<b>クイックアクセス</b> / <b><a href="http://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">サーバルール</a></b> / <b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b> / <b><a href="http://seichi.click/d/%a4%aa%cc%e4%a4%a4%b9%e7%a4%ef%a4%bb" rel="nofollow">お問い合わせ</a></b> / <b><a href="http://seichi.click/d/%b4%fb%c3%ce%a4%ce%c9%d4%b6%f1%b9%e7" rel="nofollow">既知の不具合</a></b> / <b><a href="http://seichi.click/d/Update" rel="nofollow">アップデート履歴</a></b> / <b><a href="http://seichi.click/d/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="http://seichi.click/d/DynmapLinks" rel="nofollow">サーバーマップ</a></b> / <b><a href="http://w4.minecraftserver.jp/" rel="nofollow">ランキング</a></b> / <b><a href="http://w4.minecraftserver.jp/punishments/" rel="nofollow">警告・処罰リスト</a></b>
 <br>
 <div style="text-align: center"><span class="postimg"><img src="https://i.gyazo.com/799031636a4a89786008345da44dcd9a.png" alt=""/></span></div>
 <br>
 <strong><span style="font-size: 18px;">Q：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地鯖</span></span><span style="font-size: 18px;">ってなんぞや？</span></strong>[spoiler=クリックで展開]
-<strong><span style="font-size: 18px;">A：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地</span></span><span style="font-size: 18px;">に特化しすぎた生活鯖です。</span></strong><br />
+<strong><span style="font-size: 18px;">A：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地</span></span><span style="font-size: 18px;">に特化しすぎた生活サーバです。</span></strong><br />
 整地レベル要素、ガチャシステム、数々のスキル、数々の便利機能…<br />
-整地鯖は、<strong>バニラには無い感動の整地体験を味わえる唯一の鯖</strong>です。<br />
+整地鯖は、<strong>バニラには無い感動の整地体験を味わえる唯一のサーバ</strong>です。<br />
 整地ワールドでは、壮大な岩盤整地プロジェクトに誰でも参加することが可能。<br />
 生活鯖の要素も含んでおり、建築用途の広大なメインワールドで自由に建築が可能。<br />
-複数鯖構成により、混雑時でもラグを抑えた快適なプレイ環境を提供します。<br />
+複数サーバ構成により、混雑時でもラグを抑えた快適なプレイ環境を提供します。<br />
 <br />
 <strong>木の棒を右クリックすると<span style="color: #ff00ff;">便利なメニュー画面</span>が開きます！</strong>（<a href="http://seichi.click/d/%a5%e1%a5%cb%a5%e5%a1%bc%b2%e8%cc%cc" target="_blank">解説ページ</a>）<br />
 初めての人は<span style="color: #33cccc;"><strong>ビーコンボタン</span></strong>を押して<span style="color: #008000;"><strong>整地ワールド</span></strong>に行って掘ってみよう！<br />
@@ -46,15 +44,16 @@
 <strong><span style="color: #ff0000;">投票特典</span>のご案内</strong>[spoiler=クリックで展開]
 <strong>投票するともれなく以下の<span style="color: #ff0000;">特典</span>が！</strong><br>
 ①<span style="color: #ff00ff;"><strong>ガチャ券が10枚</strong></span>もらえます♡<br />
-②<span style="color: #33cccc;"><strong>効率強化と耐久エンチャント付ダイヤピッケル</strong></span>がもらえます♡<br />
-③<span style="color: #ff0000;"><strong>エフェクトポイント</strong></span>がもらえます♡（投票でしかもらえないゾ！）<br />
-<strong>投票時にログインしている必要はありません。ゲーム内の特典受取ボタンクリック時に、投票した回数分の投票特典をまとめて受け取れます。忙しくて整地鯖に来れない時も1日1クリックしておくと、次回ログイン時に幸せになれます。</strong><br />
-<span style="color: #808080;">※まだ1度も整地鯖に入ったことのない方のみ、一度ログインして整地レベルを1だけでもいいので上げてから投票してください！</span><br />
+②<span style="color: #33cccc;"><strong>効率強化と耐久エンチャント付ダイヤピッケル</strong></span>がもらえます♡（Lv50以下）<br />
+③<span style="color: #ff0000;"><strong>エフェクトポイント</strong></span>がもらえます♡（投票特典限定）<br />
+④<span style="color: #ff0000;"><strong>妖精さん</strong></span>を召喚できます♡（マナ自動回復）<br />
+<strong>投票後に木の棒メニューから特典受取ボタンをクリックすると特典を獲得出来ます。</strong><br />
+<strong>忙しくてサーバにログイン出来ない時も1日1回投票しておきましょう。次回遊ぶ時に投票回数分の特典をまとめて受け取れます。</strong><br />
+<span style="color: #808080;">※まだ1度も整地鯖に入ったことのない方のみ、一度ログインして整地レベルを1以上上げてから投票してください！</span><br />
 <span style="color: #808080;">※エフェクトポイントはお好きなスキルエフェクトと交換出来ます。</span><br />
 <span style="color: #808080;">※「ユーザー名を通知」にチェックを入れるのを忘れずに！</span><br />
-<span style="color: #808080;">※投票後に木の棒メニューから特典受取ボタンをクリックして下さい。</span><br />
 <span style="color: #808080;">※毎日午前9時になると再度投票が可能になります。</span><br />
-<span style="color: #808080;">※運営負担の削減の為、投票特典が正常に受け取れなかった場合の補償は一切行わない方針となりました。何卒ご容赦ください。</span><br />
+<span style="color: #808080;">※運営負担削減の為、投票特典が正常に受け取れなかった場合の補償は行っておりません。何卒ご容赦ください。</span><br />
 [/spoiler]
 <br />
 <strong>公式discordグループに参加しよう</strong>[spoiler=クリックで展開]
@@ -66,7 +65,6 @@ discordグループを用いて、他の参加者とのコミュニケーショ�
 <br>
 <strong>運営チームのお手伝い募集</strong>[spoiler=クリックで展開]
 公式Discordグループにて、運営チームのお手伝いの募集を開始しました。<br />
-現在、プレイヤーの人数に対して運営チームメンバーが不足しているのと、運営チームの各メンバーが現実世界に追われている影響で、当サーバの維持と発展に支障が出ており、これを解決することが目的です。<br />
 独自機能開発やweb開発への参加、Wikiの編集、保護領域の整理等、様々な役職を用意しております。<br />
 興味のある方は<a href="https://discord.gg/pVq9Ftf" rel="nofollow">Discordグループに参加</a>してから、<a href="https://goo.gl/CWz4OS" rel="nofollow">お手伝い権限ガイドライン</a>をお読みになり申請を行ってください。
 [/spoiler]
@@ -84,7 +82,7 @@ discordグループを用いて、他の参加者とのコミュニケーショ�
 [/spoiler]
 <br>
 2017年8月現在、サーバの維持には毎月約20000円の費用が掛かっております。<br />
-しかしながら、皆様からの温かいご支援のお陰で、オープンから1年以上にわたってこの大規模サーバを維持することが出来ています。この場をお借りして感謝申し上げます。<br />
+皆様からの温かいご支援のお陰で、オープンから1年以上に渡り本サーバを維持出来ている事を運営チーム一同感謝申し上げます。<br />
 頂いた寄付は今後の整地鯖の維持と発展の為に使用させて頂きます。<br />
 <br />
 </p>
