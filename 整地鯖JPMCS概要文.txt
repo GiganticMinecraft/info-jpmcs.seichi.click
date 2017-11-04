@@ -2,9 +2,9 @@
 　<br />
 <span style="font-size: 26px;"><strong><span style="color: #ff0000;">対応ver：1.10～1.10.2</span></strong></span><br>
 最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
-<b>サーバアドレスは<a href="http://seichi.click" rel="nofollow">webサイト(公式wiki)</a>にてご確認下さい。</b><br>
+<b>サーバアドレスは<a href="https://seichi.click" rel="nofollow">webサイト(公式wiki)</a>にてご確認下さい。</b><br>
 <br>
-<b>クイックアクセス</b> / <b><a href="http://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow">サーバルール</a></b> / <b><a href="http://seichi.click/d/%a4%e8%a4%af%a4%a2%a4%eb%bc%c1%cc%e4" rel="nofollow">よくある質問</a></b> / <b><a href="http://seichi.click/d/%a4%aa%cc%e4%a4%a4%b9%e7%a4%ef%a4%bb" rel="nofollow">お問い合わせ</a></b> / <b><a href="http://seichi.click/d/%b4%fb%c3%ce%a4%ce%c9%d4%b6%f1%b9%e7" rel="nofollow">既知の不具合</a></b> / <b><a href="http://seichi.click/d/Update" rel="nofollow">アップデート履歴</a></b> / <b><a href="http://seichi.click/d/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="http://seichi.click/d/DynmapLinks" rel="nofollow">サーバーマップ</a></b> / <b><a href="http://w4.minecraftserver.jp/" rel="nofollow">ランキング</a></b> / <b><a href="http://w4.minecraftserver.jp/punishments/" rel="nofollow">警告・処罰リスト</a></b>
+<b>クイックアクセス</b> / <b><a href="https://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="https://seichi.click/wiki/運営方針とルール" rel="nofollow">サーバルール</a></b> / <b><a href="https://seichi.click/wiki/よくある質問" rel="nofollow">よくある質問</a></b> / <b><a href="https://seichi.click/wiki/お問い合わせ" rel="nofollow">お問い合わせ</a></b> / <b><a href="https://seichi.click/wiki/既知の不具合" rel="nofollow">既知の不具合</a></b> / <b><a href="https://seichi.click/wiki/Update" rel="nofollow">アップデート履歴</a></b> / <b><a href="http://seichi.click/d/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="https://seichi.click/wiki/DynmapLinks" rel="nofollow">サーバーマップ</a></b> / <b><a href="http://w4.minecraftserver.jp/" rel="nofollow">ランキング</a></b> / <b><a href="http://w4.minecraftserver.jp/punishments/" rel="nofollow">警告・処罰リスト</a></b>
 <br>
 <div style="text-align: center"><span class="postimg"><img src="https://i.gyazo.com/799031636a4a89786008345da44dcd9a.png" alt=""/></span></div>
 <br>
@@ -16,15 +16,15 @@
 生活鯖の要素も含んでおり、建築用途の広大なメインワールドで自由に建築が可能。<br />
 複数サーバ構成により、混雑時でもラグを抑えた快適なプレイ環境を提供します。<br />
 <br />
-<strong>木の棒を右クリックすると<span style="color: #ff00ff;">便利なメニュー画面</span>が開きます！</strong>（<a href="http://seichi.click/d/%a5%e1%a5%cb%a5%e5%a1%bc%b2%e8%cc%cc" target="_blank">解説ページ</a>）<br />
+<strong>木の棒を右クリックすると<span style="color: #ff00ff;">便利なメニュー画面</span>が開きます！</strong>（<a href="https://seichi.click/wiki/メニュー画面" target="_blank">解説ページ</a>）<br />
 初めての人は<span style="color: #33cccc;"><strong>ビーコンボタン</span></strong>を押して<span style="color: #008000;"><strong>整地ワールド</span></strong>に行って掘ってみよう！<br />
 <br />
-<strong>『<span style="color: #ff00ff;">ガチャ</span>』で<span style="color: #ff0000;">耐久無限ピッケル</span>をゲット！？</strong>（<a href="http://seichi.click/d/%c0%b0%c3%cf%a5%ac%a5%c1%a5%e3" target="_blank">解説ページ</a>）<br />
+<strong>『<span style="color: #ff00ff;">ガチャ</span>』で<span style="color: #ff0000;">耐久無限ピッケル</span>をゲット！？</strong>（<a href="https://seichi.click/wiki/整地ガチャ" target="_blank">解説ページ</a>）<br />
 ①<span style="color: #ff9900;"><strong>1000ブロック</strong></span>破壊するごとに<span style="color: #ff00ff;"><strong>ガチャ券</strong></span>が1枚もらえます。<br />
 ②<span style="color: #ff00ff;"><strong>ガチャ券</strong></span>を右クリックするとアイテムGET！<strong>運がいいと<span style="color: #ff0000;">各種レアアイテム</span>がもらえる！？</strong><br />
 ※ガチャ券は<span style="color: #339966;"><strong>整地ワールド</strong></span>でのみ貰えます！<br />
 <br />
-<strong>『<span style="color: #ff6600;">整地スキル</span>』で<span style="color: #ff0000;">毎分5000ブロック以上整地</span>出来る！？</strong>（<a href="http://seichi.click/d/%a5%b9%a5%ad%a5%eb%a5%b7%a5%b9%a5%c6%a5%e0" target="_blank">解説ページ</a>）<br />
+<strong>『<span style="color: #ff6600;">整地スキル</span>』で<span style="color: #ff0000;">毎分5000ブロック以上整地</span>出来る！？</strong>（<a href="https://seichi.click/wiki/スキルシステム" target="_blank">解説ページ</a>）<br />
 整地して<span style="color: #008000;"><strong>整地レベル</strong></span>を上げると<span style="color: #ff00ff;"><b>スキルポイント</b></span>を獲得！<br />
 獲得した<span style="color: #ff00ff;"><b>スキルポイント</b></span>で様々な<span style="color: #ff0000;"><b>スキル</b></span>を習得出来るゾ！<br />
 ・自分の正面最大<span style="color: #ff0000;"><b>2925ブロックを一瞬で破壊</b></span><br />
@@ -34,11 +34,15 @@
 <br />
 <b>MOD無しで『<span style="color: #993300;">StorageBox</span>』が使える！？</b><br />
 整地して<span style="color: #008000;"><strong>整地レベル</strong></span>を上げると<span style="color: #ff00ff;"><b>様々な便利機能</b></span>が解禁！<br />
-・特定ブロックを<span style="color: #ff0000;"><b>無限スタック</b></span>出来る『<b>MineStack</b>』（<a href="http://seichi.click/d/MineStack" target="_blank">解説ページ</a>）<br />
-・どこでも出し入れ自由な<span style="color: #ff0000;"><b>拡張インベントリ機能</b></span><br />
-・経験値消費でいつでも<span style="color: #ff0000;"><b>クリエイティブモードのような飛行</b></span>（<a href="http://seichi.click/d/LeftMENU" target="_blank">解説ページ</a>）<br />
+・特定ブロックを<span style="color: #ff0000;"><b>無限スタック</b></span>出来る『<b>MineStack</b>』（<a href="https://seichi.click/wiki/MineStack" target="_blank">解説ページ</a>）<br />
+・どこでも出し入れ自由な<span style="color: #ff0000;">『<b>拡張インベントリ機能</b>』</span>（<a href="https://seichi.click/wiki/四次元ポケット" target="_blank">解説ページ</a>）<br />
+・経験値消費でいつでも<span style="color: #ff0000;"><b>クリエイティブモードのような飛行</b></span>（<a href="https://seichi.click/wiki/LeftMENU" target="_blank">解説ページ</a>）<br />
 <br />
-参加される際は、<a href="http://seichi.click/d/%B1%BF%B1%C4%CA%FD%BF%CB%A4%C8%A5%EB%A1%BC%A5%EB" rel="nofollow"><strong>運営方針とルール</strong></a>も併せてご確認ください。
+<strong>整地だけではありません！充実の<span style="color: #ff6600;">建築スキル</span>！</strong>（<a href="https://seichi.click/wiki/建築スキル" target="_blank">解説ページ</a>）<br />
+・建築すると<span style="color: #339966;"><strong>建築レベル</strong></span>が上がる！<br />
+・建築レベルが上がると<span style="color: #ff6600;"><strong>一括設置スキル</strong></span>が使える！<br />
+<br />
+参加される際は、<a href="https://seichi.click/wiki/運営方針とルール" rel="nofollow"><strong>運営方針とルール</strong></a>も併せてご確認ください。
 [/spoiler]
 <br />
 <strong><span style="color: #ff0000;">投票特典</span>のご案内</strong>[spoiler=クリックで展開]
