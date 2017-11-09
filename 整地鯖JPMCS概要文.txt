@@ -7,6 +7,7 @@
 <b>クイックアクセス</b> / <b><a href="https://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="https://seichi.click/wiki/運営方針とルール" rel="nofollow">サーバルール</a></b> / <b><a href="https://seichi.click/wiki/よくある質問" rel="nofollow">よくある質問</a></b> / <b><a href="https://seichi.click/wiki/お問い合わせ" rel="nofollow">お問い合わせ</a></b> / <b><a href="https://seichi.click/wiki/既知の不具合" rel="nofollow">既知の不具合</a></b> / <b><a href="https://seichi.click/wiki/Update" rel="nofollow">アップデート履歴</a></b> / <b><a href="http://seichi.click/d/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="https://seichi.click/wiki/DynmapLinks" rel="nofollow">サーバーマップ</a></b> / <b><a href="http://w4.minecraftserver.jp/" rel="nofollow">ランキング</a></b> / <b><a href="http://w4.minecraftserver.jp/punishments/" rel="nofollow">警告・処罰リスト</a></b>
 <br>
 <div style="text-align: center"><span class="postimg"><img src="https://i.gyazo.com/799031636a4a89786008345da44dcd9a.png" alt=""/></span></div>
+<div style="text-align: center">https://www.youtube.com/watch?v=lgsY3x_HRU4</div>
 <br>
 <strong><span style="font-size: 18px;">Q：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地鯖</span></span><span style="font-size: 18px;">ってなんぞや？</span></strong>[spoiler=クリックで展開]
 <strong><span style="font-size: 18px;">A：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地</span></span><span style="font-size: 18px;">に特化しすぎた生活サーバです。</span></strong><br />
@@ -53,6 +54,7 @@
 ④<span style="color: #ff0000;"><strong>妖精さん</strong></span>を召喚できます♡（マナ自動回復）<br />
 <strong>投票後に木の棒メニューから特典受取ボタンをクリックすると特典を獲得出来ます。</strong><br />
 <strong>忙しくてサーバにログイン出来ない時も1日1回投票しておきましょう。次回遊ぶ時に投票回数分の特典をまとめて受け取れます。</strong><br />
+<strong>投票するブラウザはInternetExplorerかSafariを推奨します。</strong><br />
 <span style="color: #808080;">※まだ1度も整地鯖に入ったことのない方のみ、一度ログインして整地レベルを1以上上げてから投票してください！</span><br />
 <span style="color: #808080;">※エフェクトポイントはお好きなスキルエフェクトと交換出来ます。</span><br />
 <span style="color: #808080;">※「ユーザー名を通知」にチェックを入れるのを忘れずに！</span><br />
