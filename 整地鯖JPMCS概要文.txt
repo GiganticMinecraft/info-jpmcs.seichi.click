@@ -21,8 +21,9 @@
 初めての人は<span style="color: #33cccc;"><strong>ビーコンボタン</span></strong>を押して<span style="color: #008000;"><strong>整地ワールド</span></strong>に行って掘ってみよう！<br />
 <br />
 <strong>『<span style="color: #ff00ff;">ガチャ</span>』で<span style="color: #ff0000;">耐久無限ピッケル</span>をゲット！？</strong>（<a href="https://seichi.click/wiki/整地ガチャ" target="_blank">解説ページ</a>）<br />
-①<span style="color: #ff9900;"><strong>1000ブロック</strong></span>破壊するごとに<span style="color: #ff00ff;"><strong>ガチャ券</strong></span>が1枚もらえます。<br />
-②<span style="color: #ff00ff;"><strong>ガチャ券</strong></span>を右クリックするとアイテムGET！<strong>運がいいと<span style="color: #ff0000;">各種レアアイテム</span>がもらえる！？</strong><br />
+<span style="color: #ff9900;"><strong>1000ブロック</strong></span>破壊するごとに<span style="color: #ff00ff;"><strong>ガチャ券</strong></span>が1枚もらえます。<br />
+<span style="color: #ff00ff;"><strong>ガチャ券</strong></span>を右クリックするとアイテムGET！<strong>運がいいと<span style="color: #ff0000;">各種レアアイテム</span>がもらえる！？</strong><br />
+たまに出る<span style="color: #ff9900;">ギフト券</span>を集めて<span style="color: #ff00ff;">デパート</span>でお買い物を楽しもう！（<a href="https://seichi.click/wiki/デパート（交換所）" target="_blank">解説ページ</a>）<br />
 ※ガチャ券は<span style="color: #339966;"><strong>整地ワールド</strong></span>でのみ貰えます！<br />
 <br />
 <strong>『<span style="color: #ff6600;">整地スキル</span>』で<span style="color: #ff0000;">毎分5000ブロック以上整地</span>出来る！？</strong>（<a href="https://seichi.click/wiki/スキルシステム" target="_blank">解説ページ</a>）<br />
