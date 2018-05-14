@@ -1,4 +1,4 @@
-<p>
+﻿<p>
 　<br />
 <span style="font-size: 26px;"><strong><span style="color: #ff0000;">対応ver：1.10～1.10.2</span></strong></span><br>
 最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
@@ -66,21 +66,20 @@
 <strong>公式discordグループに参加しよう</strong>[spoiler=クリックで展開]
 誰でもご参加頂ける公式discordグループを開設しました。<br />
 discordグループを用いて、他の参加者とのコミュニケーションをお楽しみ頂けます。また、整地鯖をより良くする為の議論の場としても活用されています。テキストチャットとボイスチャットに対応しています。<br />
-参加する前に<a href="https://goo.gl/5Or32K" rel="nofollow">こちらのルール</a>をお読みください。<br />
+参加する前に<a href="https://goo.gl/WeoDRh" rel="nofollow">こちらのルール</a>をお読みください。<br />
 参加する方は<a href="https://discord.gg/pVq9Ftf" rel="nofollow">こちらをクリック</a>してください。
 [/spoiler]
 <br>
-<strong>運営チームのお手伝い募集</strong>[spoiler=クリックで展開]
-公式Discordグループにて、運営チームのお手伝いの募集を開始しました。<br />
-独自機能開発やweb開発への参加、Wikiの編集、保護領域の整理等、様々な役職を用意しております。<br />
-興味のある方は<a href="https://discord.gg/pVq9Ftf" rel="nofollow">Discordグループに参加</a>してから、<a href="https://goo.gl/CWz4OS" rel="nofollow">お手伝い権限ガイドライン</a>をお読みになり申請を行ってください。
+<strong>運営チームのサポーター募集</strong>[spoiler=クリックで展開]
+公式Discordグループにて、運営チームのサポーター募集を開始しました。<br />
+興味のある方は<a href="https://discord.gg/pVq9Ftf" rel="nofollow">Discordグループに参加</a>してから、<a href="https://goo.gl/kuRshQ" rel="nofollow">サポーターガイドライン</a>をお読みになり申請を行ってください。
 [/spoiler]
 <br />
 <strong><span style="color: #0000ff;">寄付の受付及び特典について</strong></span><br>
 <a href="https://goo.gl/forms/W790Zg6l2BexVvf03" rel="nofollow">Amazonギフト券・銀行振込決済はこちら</a>(手動処理の為特典反映までお時間を頂きます)<br>
 <a href="https://seichi.buycraft.net" rel="nofollow">PayPal決済はこちら</a>(自動処理の為、寄付するとすぐに特典を利用可能です)<br>
 [spoiler=寄付について：クリックで展開]
-皆様のお陰で、当鯖はリニューアルからたった3か月でおすすめサーバー1位の大規模サーバへと成長することが出来ました。<br />
+皆様のお陰で、当鯖はリニューアルからたった3か月でおすすめサーバ1位の大規模サーバへと成長することが出来ました。<br />
 急激なトラフィックの増加により、以前の環境ではサーバーを維持する事が難しくなってしまった為、新規回線の契約と、新たなサーバー拠点の整備を実施致しました。その過程で、初期の導入費用、毎月の維持費等といった費用面の問題が無視出来ない状態となっています。<br />
 この問題を解決する為に、寄付の受付を開始することと致しました。寄付頂いた方には、金額に応じて特典としてプレミアムエフェクトポイントをプレゼントいたします。<br />
 「プレミアムエフェクトポイント」は、お好きな「プレミアムスキルエフェクト」の使用権と交換できます。「プレミアムスキルエフェクト」を使用することで整地スキル発動時の見た目を変えることが出来ます。Mojangの「<a href="https://account.mojang.com/terms#commercial" rel="nofollow">Minecraftの商業目的使用に関するガイドライン</a>」に則る為、見た目が変わるだけで、ゲーム内で有利になる要素は一切ありません。<br />
