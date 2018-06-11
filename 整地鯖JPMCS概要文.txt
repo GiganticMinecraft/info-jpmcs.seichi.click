@@ -1,22 +1,14 @@
-﻿</p><p>
+﻿<p>
+　<br>
+<span style="font-size: 26px;"><strong><span style="color: #ff0000;">対応ver：1.10～1.10.2</span></strong></span><br>
+最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
+<div style="text-align: center">https://www.youtube.com/watch?v=lgsY3x_HRU4</div>
 <span class="postimg"><a href="https://seichi.click" rel="nofollow"><img alt="" src="https://seichi.click/images/2/2b/Top-banner2.png" /></a></span><br>
 無料でご利用頂けるMinecraftマルチサーバー。<br />
 主に<b>整地</b>を楽しむ生活サーバーです。<br />
 アイテムロストがなく、建物は保護できますので安心して遊べます。<br />
 レベル上げをしたり建築したり自由に楽しんでください！<br />
-<span style="font-size: 18px;"><strong>初めての方は<a href="https://seichi.click" rel="nofollow">webサイト</a>でサーバアドレスをチェック！</strong></span><br>
-<br>
-<span style="font-size: 26px;"><strong><span style="color: #ff0000;">対応ver：1.10～1.10.2</span></strong></span><br>
-最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
-<br>
-<br>
-<b>クイックアクセス</b> / <b><a href="https://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="https://seichi.click/wiki/運営方針とルール" rel="nofollow">サーバルール</a></b> / <b><a href="https://seichi.click/wiki/よくある質問" rel="nofollow">よくある質問</a></b> / <b><a href="https://seichi.click/wiki/お問い合わせ" rel="nofollow">お問い合わせ</a></b> / <b><a href="https://seichi.click/wiki/既知の不具合" rel="nofollow">既知の不具合</a></b> / <b><a href="https://seichi.click/wiki/Update" rel="nofollow">アップデート履歴</a></b> / <b><a href="http://seichi.click/wiki/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="https://seichi.click/wiki/DynmapLinks" rel="nofollow">サーバーマップ</a></b> / <b><a href="http://w4.minecraftserver.jp/" rel="nofollow">ランキング</a></b> / <b><a href="http://w4.minecraftserver.jp/punishments/" rel="nofollow">警告・処罰リスト</a></b>
-<br>
-<div style="text-align: center"><span class="postimg"><img src="https://i.gyazo.com/799031636a4a89786008345da44dcd9a.png" alt=""/></span></div>
-<div style="text-align: center">https://www.youtube.com/watch?v=lgsY3x_HRU4</div>
-<br>
-<strong><span style="font-size: 18px;">Q：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地鯖</span></span><span style="font-size: 18px;">ってなんぞや？</span></strong>[spoiler=クリックで展開]
-<strong><span style="font-size: 18px;">A：</span><span style="color: #ff00ff;"><span style="font-size: 18px;">整地</span></span><span style="font-size: 18px;">に特化しすぎた生活サーバです。</span></strong><br />
+[spoiler=詳細な説明：クリックで展開]
 整地レベル要素、ガチャシステム、数々のスキル、数々の便利機能…<br />
 整地鯖は、<strong>バニラには無い感動の整地体験を味わえる唯一のサーバ</strong>です。<br />
 整地ワールドでは、壮大な岩盤整地プロジェクトに誰でも参加することが可能。<br />
@@ -53,7 +45,10 @@
 参加される際は、<a href="https://seichi.click/wiki/運営方針とルール" rel="nofollow"><strong>運営方針とルール</strong></a>も併せてご確認ください。
 [/spoiler]
 <br />
-<strong><span style="color: #ff0000;">投票特典</span>のご案内</strong>[spoiler=クリックで展開]
+<a href="https://seichi.click/" class="image"><img alt="" src="https://seichi.click/images/3/31/Top-banner4.png" /></a><br />
+<span style="font-size: 18px;"><strong><a href="https://seichi.click" rel="nofollow">webサイト</a>に記載しています。</strong></span><br>
+<br>
+<img alt="" src="https://seichi.click/images/b/be/Top-banner5.png" /></a><br />[spoiler=クリックで展開]
 <strong>投票するともれなく以下の<span style="color: #ff0000;">特典</span>が！</strong><br>
 ①<span style="color: #ff00ff;"><strong>ガチャ券が10枚</strong></span>もらえます♡<br />
 ②<span style="color: #33cccc;"><strong>効率強化と耐久エンチャント付ダイヤピッケル</strong></span>がもらえます♡（Lv50以下）<br />
@@ -69,18 +64,7 @@
 <span style="color: #808080;">※運営負担削減の為、投票特典が正常に受け取れなかった場合の補償は行っておりません。何卒ご容赦ください。</span><br />
 [/spoiler]
 <br />
-<strong>公式discordグループに参加しよう</strong>[spoiler=クリックで展開]
-誰でもご参加頂ける公式discordグループを開設しました。<br />
-discordグループを用いて、他の参加者とのコミュニケーションをお楽しみ頂けます。また、整地鯖をより良くする為の議論の場としても活用されています。テキストチャットとボイスチャットに対応しています。<br />
-参加する前に<a href="https://goo.gl/WeoDRh" rel="nofollow">こちらのルール</a>をお読みください。<br />
-参加する方は<a href="https://discord.gg/pVq9Ftf" rel="nofollow">こちらをクリック</a>してください。
-[/spoiler]
-<br>
-<strong>運営チームのサポーター募集</strong>[spoiler=クリックで展開]
-公式Discordグループにて、運営チームのサポーター募集を開始しました。<br />
-興味のある方は<a href="https://discord.gg/pVq9Ftf" rel="nofollow">Discordグループに参加</a>してから、<a href="https://goo.gl/kuRshQ" rel="nofollow">サポーターガイドライン</a>をお読みになり申請を行ってください。
-[/spoiler]
-<br />
+<img alt="" src="https://seichi.click/images/d/d8/Top-banner13.png" /></a><br />
 <strong><span style="color: #0000ff;">寄付の受付及び特典について</strong></span><br>
 <a href="https://goo.gl/forms/W790Zg6l2BexVvf03" rel="nofollow">Amazonギフト券・銀行振込決済はこちら</a>(手動処理の為特典反映までお時間を頂きます)<br>
 <a href="https://seichi.buycraft.net" rel="nofollow">PayPal決済はこちら</a>(自動処理の為、寄付するとすぐに特典を利用可能です)<br>
@@ -91,10 +75,11 @@ discordグループを用いて、他の参加者とのコミュニケーショ�
 「プレミアムエフェクトポイント」は、お好きな「プレミアムスキルエフェクト」の使用権と交換できます。「プレミアムスキルエフェクト」を使用することで整地スキル発動時の見た目を変えることが出来ます。Mojangの「<a href="https://account.mojang.com/terms#commercial" rel="nofollow">Minecraftの商業目的使用に関するガイドライン</a>」に則る為、見た目が変わるだけで、ゲーム内で有利になる要素は一切ありません。<br />
 もしご協力いただける方がいらっしゃいましたら、上記URLからお手続き頂けます。<br />
 厚かましいお願いではありますが、ご支援頂けると幸いです。<br />
-[/spoiler]
 <br>
 2017年8月現在、サーバの維持には毎月約20000円の費用が掛かっております。<br />
 皆様からの温かいご支援のお陰で、オープンから1年以上に渡り本サーバを維持出来ている事を運営チーム一同感謝申し上げます。<br />
 頂いた寄付は今後の整地鯖の維持と発展の為に使用させて頂きます。<br />
-<br />
+[/spoiler]
+<br>
+<b>クイックアクセス</b> / <b><a href="https://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="https://seichi.click/wiki/運営方針とルール" rel="nofollow">サーバルール</a></b> / <b><a href="https://seichi.click/wiki/よくある質問" rel="nofollow">よくある質問</a></b> / <b><a href="https://seichi.click/wiki/お問い合わせ" rel="nofollow">お問い合わせ</a></b> / <b><a href="http://seichi.click/wiki/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="https://seichi.click/wiki/DynmapLinks" rel="nofollow">サーバーマップ</a></b> / <b><a href="http://w4.minecraftserver.jp/" rel="nofollow">ランキング</a></b>
 </p>
