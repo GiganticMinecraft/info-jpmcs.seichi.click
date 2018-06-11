@@ -1,8 +1,14 @@
-﻿<p>
-　<br />
+﻿</p><p>
+<span class="postimg"><a href="https://seichi.click" rel="nofollow"><img alt="" src="https://seichi.click/images/2/2b/Top-banner2.png" /></a></span><br>
+無料でご利用頂けるMinecraftマルチサーバー。<br />
+主に<b>整地</b>を楽しむ生活サーバーです。<br />
+アイテムロストがなく、建物は保護できますので安心して遊べます。<br />
+レベル上げをしたり建築したり自由に楽しんでください！<br />
+<span style="font-size: 18px;"><strong>初めての方は<a href="https://seichi.click" rel="nofollow">webサイト</a>でサーバアドレスをチェック！</strong></span><br>
+<br>
 <span style="font-size: 26px;"><strong><span style="color: #ff0000;">対応ver：1.10～1.10.2</span></strong></span><br>
 最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
-<b>サーバアドレスは<a href="https://seichi.click" rel="nofollow">webサイト(公式wiki)</a>にてご確認下さい。</b><br>
+<br>
 <br>
 <b>クイックアクセス</b> / <b><a href="https://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="https://seichi.click/wiki/運営方針とルール" rel="nofollow">サーバルール</a></b> / <b><a href="https://seichi.click/wiki/よくある質問" rel="nofollow">よくある質問</a></b> / <b><a href="https://seichi.click/wiki/お問い合わせ" rel="nofollow">お問い合わせ</a></b> / <b><a href="https://seichi.click/wiki/既知の不具合" rel="nofollow">既知の不具合</a></b> / <b><a href="https://seichi.click/wiki/Update" rel="nofollow">アップデート履歴</a></b> / <b><a href="http://seichi.click/wiki/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="https://seichi.click/wiki/DynmapLinks" rel="nofollow">サーバーマップ</a></b> / <b><a href="http://w4.minecraftserver.jp/" rel="nofollow">ランキング</a></b> / <b><a href="http://w4.minecraftserver.jp/punishments/" rel="nofollow">警告・処罰リスト</a></b>
 <br>
