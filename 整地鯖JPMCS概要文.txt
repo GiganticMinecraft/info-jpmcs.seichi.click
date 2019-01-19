@@ -1,50 +1,11 @@
 ﻿<p>
 　<br>
-<span style="font-size: 26px;"><strong><span style="color: #ff0000;">対応ver：1.10～1.10.2</span></strong></span><br>
-最新バージョンではログイン出来ません。ランチャーでバージョン変更が必要です！(<a href="http://n5v.net/how-to-version-down-4346/" target="_blank">解説ページ</a>)<br>
-<span style="font-size: 18px;"><strong><span style="color: #ff0000;">アドレスが変わってます！<a href="https://seichi.click/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8#FirstJoin" rel="nofollow">コチラ</a>からご確認下さい。</span></strong></span>
 <div style="text-align: center">https://www.youtube.com/watch?v=lgsY3x_HRU4</div>
 <span class="postimg"><a href="https://seichi.click" rel="nofollow"><img alt="" src="https://seichi.click/images/2/2b/Top-banner2.png" /></a></span><br>
 無料でご利用頂けるMinecraftマルチサーバー。<br />
 主に<b>整地</b>を楽しむ生活サーバーです。<br />
 アイテムロストがなく、建物は保護できますので安心して遊べます。<br />
 レベル上げをしたり建築したり自由に楽しんでください！<br />
-[spoiler=詳細な説明：クリックで展開]
-整地レベル要素、ガチャシステム、数々のスキル、数々の便利機能…<br />
-整地鯖は、<strong>バニラには無い感動の整地体験を味わえる唯一のサーバ</strong>です。<br />
-整地ワールドでは、壮大な岩盤整地プロジェクトに誰でも参加することが可能。<br />
-生活鯖の要素も含んでおり、建築用途の広大なメインワールドで自由に建築が可能。<br />
-複数サーバ構成により、混雑時でもラグを抑えた快適なプレイ環境を提供します。<br />
-<br />
-<strong>木の棒を右クリックすると<span style="color: #ff00ff;">便利なメニュー画面</span>が開きます！</strong>（<a href="https://seichi.click/wiki/メニュー画面" target="_blank">解説ページ</a>）<br />
-初めての人は<span style="color: #33cccc;"><strong>ビーコンボタン</span></strong>を押して<span style="color: #008000;"><strong>整地ワールド</span></strong>に行って掘ってみよう！<br />
-<br />
-<strong>『<span style="color: #ff00ff;">ガチャ</span>』で<span style="color: #ff0000;">耐久無限ピッケル</span>をゲット！？</strong>（<a href="https://seichi.click/wiki/整地ガチャ" target="_blank">解説ページ</a>）<br />
-<span style="color: #ff9900;"><strong>1000ブロック</strong></span>破壊するごとに<span style="color: #ff00ff;"><strong>ガチャ券</strong></span>が1枚もらえます。<br />
-<span style="color: #ff00ff;"><strong>ガチャ券</strong></span>を右クリックするとアイテムGET！<strong>運がいいと<span style="color: #ff0000;">各種レアアイテム</span>がもらえる！？</strong><br />
-たまに出る<span style="color: #ff9900;">ギフト券</span>を集めて<span style="color: #ff00ff;">デパート</span>でお買い物を楽しもう！（<a href="https://seichi.click/wiki/デパート（交換所）" target="_blank">解説ページ</a>）<br />
-※ガチャ券は<span style="color: #339966;"><strong>整地ワールド</strong></span>でのみ貰えます！<br />
-<br />
-<strong>『<span style="color: #ff6600;">整地スキル</span>』で<span style="color: #ff0000;">毎分5000ブロック以上整地</span>出来る！？</strong>（<a href="https://seichi.click/wiki/スキルシステム" target="_blank">解説ページ</a>）<br />
-整地して<span style="color: #008000;"><strong>整地レベル</strong></span>を上げると<span style="color: #ff00ff;"><b>スキルポイント</b></span>を獲得！<br />
-獲得した<span style="color: #ff00ff;"><b>スキルポイント</b></span>で様々な<span style="color: #ff0000;"><b>スキル</b></span>を習得出来るゾ！<br />
-・自分の正面最大<span style="color: #ff0000;"><b>2925ブロックを一瞬で破壊</b></span><br />
-・自分の正面最大<span style="color: #ff0000;"><b>49マスを一瞬で空洞</b></span>に<br />
-・弓矢で<span style="color: #ff0000;"><b>遠くのブロックを破壊</b></span><br />
-・水やマグマを<span style="color: #ff0000;"><b>一瞬で固める</b></span><br />
-<br />
-<b>MOD無しで『<span style="color: #993300;">StorageBox</span>』が使える！？</b><br />
-整地して<span style="color: #008000;"><strong>整地レベル</strong></span>を上げると<span style="color: #ff00ff;"><b>様々な便利機能</b></span>が解禁！<br />
-・特定ブロックを<span style="color: #ff0000;"><b>無限スタック</b></span>出来る『<b>MineStack</b>』（<a href="https://seichi.click/wiki/MineStack" target="_blank">解説ページ</a>）<br />
-・どこでも出し入れ自由な<span style="color: #ff0000;">『<b>拡張インベントリ機能</b>』</span>（<a href="https://seichi.click/wiki/四次元ポケット" target="_blank">解説ページ</a>）<br />
-・経験値消費でいつでも<span style="color: #ff0000;"><b>クリエイティブモードのような飛行</b></span>（<a href="https://seichi.click/wiki/LeftMENU" target="_blank">解説ページ</a>）<br />
-<br />
-<strong>整地だけではありません！充実の<span style="color: #ff6600;">建築スキル</span>！</strong>（<a href="https://seichi.click/wiki/建築スキル" target="_blank">解説ページ</a>）<br />
-・建築すると<span style="color: #339966;"><strong>建築レベル</strong></span>が上がる！<br />
-・建築レベルが上がると<span style="color: #ff6600;"><strong>一括設置スキル</strong></span>が使える！<br />
-<br />
-参加される際は、<a href="https://seichi.click/wiki/運営方針とルール" rel="nofollow"><strong>運営方針とルール</strong></a>も併せてご確認ください。
-[/spoiler]
 <br />
 <a href="https://seichi.click/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8#FirstJoin" class="image"><img alt="" src="https://seichi.click/images/3/31/Top-banner4.png" /></a><br />
 <span style="font-size: 18px;"><strong><a href="https://seichi.click/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8#FirstJoin" rel="nofollow">webサイト</a>に記載しています。</strong></span><br>
@@ -55,32 +16,24 @@
 ②<span style="color: #33cccc;"><strong>効率強化と耐久エンチャント付ダイヤピッケル</strong></span>がもらえます♡（Lv50以下）<br />
 ③<span style="color: #ff0000;"><strong>エフェクトポイント</strong></span>がもらえます♡（投票特典限定）<br />
 ④<span style="color: #ff0000;"><strong>妖精さん</strong></span>を召喚できます♡（マナ自動回復）<br />
-<strong>投票後に木の棒メニューから特典受取ボタンをクリックすると特典を獲得出来ます。</strong><br />
-<strong>忙しくてサーバにログイン出来ない時も1日1回投票しておきましょう。次回遊ぶ時に投票回数分の特典をまとめて受け取れます。</strong><br />
-<strong>投票するブラウザはInternetExplorerかSafariを推奨します。</strong><br />
-<span style="color: #808080;">※まだ1度も整地鯖に入ったことのない方のみ、一度ログインして整地レベルを1以上上げてから投票してください！</span><br />
+<span style="color: #808080;">※投票後に木の棒メニューから特典受取ボタンをクリックすると特典を獲得出来ます。</span><br />
+<span style="color: #808080;">※忙しくて遊べない時も1日1回投票しておくと、次回遊ぶ時に投票回数分の特典をまとめて受け取れます。</span><br />
+<span style="color: #808080;">※投票するブラウザはInternetExplorerかSafariを推奨します。</span><br />
+<span style="color: #808080;">※未プレイの方は整地レベルを1以上上げてから投票してください。</span><br />
 <span style="color: #808080;">※エフェクトポイントはお好きなスキルエフェクトと交換出来ます。</span><br />
 <span style="color: #808080;">※「ユーザー名を通知」にチェックを入れるのを忘れずに！</span><br />
 <span style="color: #808080;">※毎日午前9時になると再度投票が可能になります。</span><br />
-<span style="color: #808080;">※運営負担削減の為、投票特典が正常に受け取れなかった場合の補償は行っておりません。何卒ご容赦ください。</span><br />
+<span style="color: #808080;">※投票特典が正常に受け取れなかった場合の補償は行っておりません。何卒ご容赦ください。</span><br />
 [/spoiler]
 <br />
 <img alt="" src="https://seichi.click/images/d/d8/Top-banner13.png" /></a><br />
 <strong><span style="color: #0000ff;">寄付の受付及び特典について</strong></span><br>
-<a href="https://goo.gl/forms/W790Zg6l2BexVvf03" rel="nofollow">Amazonギフト券・銀行振込決済はこちら</a>(手動処理の為特典反映までお時間を頂きます)<br>
-<a href="https://seichi.buycraft.net" rel="nofollow">PayPal決済はこちら</a>(自動処理の為、寄付するとすぐに特典を利用可能です)<br>
-[spoiler=寄付について：クリックで展開]
-皆様のお陰で、当鯖はリニューアルからたった3か月でおすすめサーバ1位の大規模サーバへと成長することが出来ました。<br />
-急激なトラフィックの増加により、以前の環境ではサーバーを維持する事が難しくなってしまった為、新規回線の契約と、新たなサーバー拠点の整備を実施致しました。その過程で、初期の導入費用、毎月の維持費等といった費用面の問題が無視出来ない状態となっています。<br />
-この問題を解決する為に、寄付の受付を開始することと致しました。寄付頂いた方には、金額に応じて特典としてプレミアムエフェクトポイントをプレゼントいたします。<br />
-「プレミアムエフェクトポイント」は、お好きな「プレミアムスキルエフェクト」の使用権と交換できます。「プレミアムスキルエフェクト」を使用することで整地スキル発動時の見た目を変えることが出来ます。Mojangの「<a href="https://account.mojang.com/terms#commercial" rel="nofollow">Minecraftの商業目的使用に関するガイドライン</a>」に則る為、見た目が変わるだけで、ゲーム内で有利になる要素は一切ありません。<br />
-もしご協力いただける方がいらっしゃいましたら、上記URLからお手続き頂けます。<br />
-厚かましいお願いではありますが、ご支援頂けると幸いです。<br />
+当サーバでは寄付を受け付けております。皆様の暖かいご支援をお待ちしております。詳しい内容は以下のページをご覧ください。<br>
+<a href="https://goo.gl/forms/W790Zg6l2BexVvf03" rel="nofollow">ギガンティック☆整地鯖 寄付受付フォーム</a><br>
+<a href="https://goo.gl/forms/8ZR3MJwtSeTDkGST2" rel="nofollow">整地鯖(春) 寄付受付フォーム</a><br>
 <br>
-2017年8月現在、サーバの維持には毎月約20000円の費用が掛かっております。<br />
-皆様からの温かいご支援のお陰で、オープンから1年以上に渡り本サーバを維持出来ている事を運営チーム一同感謝申し上げます。<br />
-頂いた寄付は今後の整地鯖の維持と発展の為に使用させて頂きます。<br />
-[/spoiler]
+<strong><span style="color: #0000ff;">整地鯖(春)について</strong></span><br>
+整地鯖(春)とは、ギガンティック☆整地鯖を立ち上げたunchamaとtar0ssが、今一度「整地鯖とはどうあるべきか？」を再考すべく、ゼロからの再構築を行なっている公開サーバです。詳細は、<a href="https://discord.gg/nmhjtC5" rel="nofollow">整地鯖(春)公式Discordグループに参加</a>してご確認ください。<br>
 <br>
 <b>クイックアクセス</b> / <b><a href="https://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="https://seichi.click/wiki/運営方針とルール" rel="nofollow">サーバルール</a></b> / <b><a href="https://seichi.click/wiki/よくある質問" rel="nofollow">よくある質問</a></b> / <b><a href="https://seichi.click/wiki/お問い合わせ" rel="nofollow">お問い合わせ</a></b> / <b><a href="http://seichi.click/wiki/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="https://seichi.click/wiki/DynmapLinks" rel="nofollow">サーバーマップ</a></b> / <b><a href="http://w4.minecraftserver.jp/" rel="nofollow">ランキング</a></b>
 </p>
