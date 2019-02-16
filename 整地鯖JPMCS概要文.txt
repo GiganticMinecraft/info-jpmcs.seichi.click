@@ -1,7 +1,7 @@
 <p>
 　<br>
-<a href="https://seichi.click/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8#FirstJoin" class="image"><img alt="" src="https://seichi.click/images/3/31/Top-banner4.png" /></a><br />
-<span style="font-size: 18px;"><strong><a href="https://seichi.click/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8#FirstJoin" rel="nofollow">webサイト</a>に記載しています。</strong></span><br>
+<a href="https://seichi.network" class="image"><img alt="" src="https://seichi.click/images/3/31/Top-banner4.png" /></a><br />
+<span style="font-size: 18px;"><strong><a href="https://seichi.network" rel="nofollow">webサイト</a>に記載しています。</strong></span><br>
 <br>
 <br>
 
@@ -10,7 +10,7 @@
 無料でご利用頂けるMinecraftマルチサーバです。このサーバでは、整地を主ジャンルとした２つの遊び「ギガンティック☆整地鯖」および「整地鯖(春)」を提供しています。</div>
 </p>
 <p>
-<span class="postimg"><a href="https://seichi.click" rel="nofollow"><img alt="" src="https://seichi.click/images/2/2b/Top-banner2.png" /></a></span><br>[spoiler=クリックで展開]
+<span class="postimg"><a href="https://seichi.network/gigantic" rel="nofollow"><img alt="" src="https://seichi.click/images/2/2b/Top-banner2.png" /></a></span><br>[spoiler=クリックで展開]
 <div style="text-align: center">https://www.youtube.com/watch?v=lgsY3x_HRU4</div>
 主に<b>整地</b>を楽しむ生活サーバーです。<br />
 アイテムロストがなく、建物は保護できますので安心して遊べます。<br />
@@ -35,13 +35,13 @@
 <span style="color: #808080;">※投票特典が正常に受け取れなかった場合の補償は行っておりません。何卒ご容赦ください。</span><br />
 [/spoiler]
 <br />
-<b>クイックアクセス(ギガンティック☆整地鯖)</b> / <b><a href="https://seichi.click" rel="nofollow">webサイト(公式wiki)</a></b> / <b><a href="https://seichi.click/wiki/運営方針とルール" rel="nofollow">サーバルール</a></b> / <b><a href="https://seichi.click/wiki/よくある質問" rel="nofollow">よくある質問</a></b> / <b><a href="https://seichi.click/wiki/お問い合わせ" rel="nofollow">お問い合わせ</a></b> / <b><a href="http://seichi.click/wiki/Discord" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="https://seichi.click/wiki/DynmapLinks" rel="nofollow">サーバーマップ</a></b> / <b><a href="http://w4.minecraftserver.jp/" rel="nofollow">ランキング</a></b>
+<b>クイックアクセス(ギガンティック☆整地鯖)</b> / <b><a href="https://seichi.network/gigantic" rel="nofollow">公式webサイト</a></b> / <b><a href="https://www.seichi.network/rule" rel="nofollow">サーバルール</a></b> / <b><a href="https://www.seichi.network/qanda" rel="nofollow">よくある質問</a></b> / <b><a href="https://www.seichi.network/access" rel="nofollow">お問い合わせ</a></b> / <b><a href="https://discord.gg/pVq9Ftf" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/seichiclick" rel="nofollow">公式Twitter</a></b> / <b><a href="https://www.seichi.network/map" rel="nofollow">サーバーマップ</a></b> / <b><a href="http://w4.minecraftserver.jp/" rel="nofollow">ランキング</a></b>
 </p>
 <hr>
 <p>
 <br>
 <br>
-<strong><span style="color: #0000ff;font-size: 32px;">整地鯖(春)とは？</strong></span><br>[spoiler=クリックで展開]
+<a href="https://seichi.network/spring" rel="nofollow"><strong><span style="color: #0000ff;font-size: 32px;">整地鯖(春)とは？</strong></span></a><br>[spoiler=クリックで展開]
 <br>
 整地鯖(春)とは、ギガンティック☆整地鯖を立ち上げたunchamaとtar0ssが、今一度「整地鯖とはどうあるべきか？」を再考すべく、ゼロからの再構築を行なっている公開サーバです。詳細は、<a href="https://discord.gg/nmhjtC5" rel="nofollow">整地鯖(春)公式Discordグループに参加</a>してご確認ください。<br>
 <br />
@@ -52,7 +52,7 @@
 ちなみに、seichi.click networkに対して投票するとギガンティック☆整地鯖と整地鯖(春)の双方で投票特典が利用可能です。<br>
 [/spoiler]
 <br />
-<b>クイックアクセス(整地鯖(春))</b> <b><a href="https://discord.gg/nmhjtC5" rel="nofollow">お問い合わせ(Discordグループ)</a></b> / <b><a href="https://discord.gg/nmhjtC5" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/springseichi" rel="nofollow">公式Twitter</a></b> / <b><a href="http://map.spring.seichi.click" rel="nofollow">サーバーマップ</a></b> / <b><a href="https://springseichi.sokuhou.wiki/" rel="nofollow">非公式Wiki</a></b>
+<b>クイックアクセス(整地鯖(春))</b> / <b><a href="https://seichi.network/spring" rel="nofollow">公式webサイト</a></b> / <b><a href="https://discord.gg/nmhjtC5" rel="nofollow">お問い合わせ(Discordグループ)</a></b> / <b><a href="https://discord.gg/nmhjtC5" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/springseichi" rel="nofollow">公式Twitter</a></b> / <b><a href="http://map.spring.seichi.click" rel="nofollow">サーバーマップ</a></b> / <b><a href="https://springseichi.sokuhou.wiki/" rel="nofollow">非公式Wiki</a></b>
 </p>
 <hr>
 <p>
