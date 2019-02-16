@@ -21,9 +21,10 @@
 <img alt="" src="https://seichi.click/images/b/be/Top-banner5.png" /></a><br />
 <strong>投票するともれなく以下の<span style="color: #ff0000;">特典</span>が！</strong><br>
 ①<span style="color: #ff00ff;"><strong>ガチャ券が10枚</strong></span>もらえます♡<br />
-②<span style="color: #33cccc;"><strong>効率強化と耐久エンチャント付ダイヤピッケル</strong></span>がもらえます♡（Lv50以下）<br />
-③<span style="color: #ff0000;"><strong>エフェクトポイント</strong></span>がもらえます♡（投票特典限定）<br />
-④<span style="color: #ff0000;"><strong>妖精さん</strong></span>を召喚できます♡（マナ自動回復）<br />
+②<span style="color: #33cccc;"><strong>効率強化と耐久エンチャント付ダイヤピッケル</strong></span>がもらえます♡（Lv50未満）<br />
+③<span style="color: #33cccc;"><strong>様々な特別アイテムと交換できる「投票ギフト券」</strong></span>がもらえます♡（Lv50以上）<br />
+④<span style="color: #ff0000;"><strong>エフェクトポイント</strong></span>がもらえます♡（投票特典限定）<br />
+⑤<span style="color: #ff0000;"><strong>妖精さん</strong></span>を召喚できます♡（マナ自動回復）<br />
 <span style="color: #808080;">※投票後に木の棒メニューから特典受取ボタンをクリックすると特典を獲得出来ます。</span><br />
 <span style="color: #808080;">※忙しくて遊べない時も1日1回投票しておくと、次回遊ぶ時に投票回数分の特典をまとめて受け取れます。</span><br />
 <span style="color: #808080;">※投票するブラウザはInternetExplorerかSafariを推奨します。</span><br />
