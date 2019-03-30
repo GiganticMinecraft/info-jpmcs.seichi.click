@@ -5,18 +5,18 @@
 <br>
 <br>
 
-<img alt="" src="https://i.gyazo.com/c232f27d1cb845bd67d0cad874cc40f4.png" /><br />
+<img alt="" src="https://i.gyazo.com/ca14fd128d3d56fb1dfa681b40f98184.jpg" /><br />
 <div style="text-align: center"><span style="font-size: 18px;"><strong>We are "seichi.click network".</span><br />
-無料でご利用頂けるMinecraftマルチサーバです。このサーバでは、整地を主ジャンルとした２つの遊び「ギガンティック☆整地鯖」および「整地鯖(春)」を提供しています。</div>
+無料でご利用頂けるMinecraftマルチサーバーです。このサーバーでは、整地・建築を主ジャンルとした生活サーバー「ギガンティック☆整地鯖」/整地を主ジャンルとした「整地鯖(春)」の２つのサーバーを提供しています。</div>
 </p>
 <p>
-<span class="postimg"><a href="https://seichi.network/gigantic" rel="nofollow"><img alt="" src="https://seichi.click/images/2/2b/Top-banner2.png" /></a></span><br>[spoiler=クリックで展開]
+<span class="postimg"><a href="https://seichi.network/gigantic" rel="nofollow"><img alt="" src="https://seichi.click/images/2/2b/Top-banner2.png" /></a></span><br>
 <div style="text-align: center">https://www.youtube.com/watch?v=lgsY3x_HRU4</div>
-主に<b>整地</b>を楽しむ生活サーバーです。<br />
+スキルを使って<b>整地と建築</b>を楽しむ生活サーバーです。<br />
 アイテムロストがなく、建物は保護できますので安心して遊べます。<br />
 レベル上げをしたり建築したり自由に楽しんでください！<br />
 <br />
-<b>※Version：Minecraft Java Edition 1.10～1.10.2</b><br />
+<b>※Version：Minecraft Java Edition 1.12.2</b><br />
 <br />
 <img alt="" src="https://seichi.click/images/b/be/Top-banner5.png" /></a><br />
 <strong>投票するともれなく以下の<span style="color: #ff0000;">特典</span>が！</strong><br>
@@ -25,6 +25,7 @@
 ③<span style="color: #33cccc;"><strong>様々な特別アイテムと交換できる「投票ギフト券」</strong></span>がもらえます♡（Lv50以上）<br />
 ④<span style="color: #ff0000;"><strong>エフェクトポイント</strong></span>がもらえます♡（投票特典限定）<br />
 ⑤<span style="color: #ff0000;"><strong>妖精さん</strong></span>を召喚できます♡（マナ自動回復）<br />
+[spoiler=投票の際の注意事項]
 <span style="color: #808080;">※投票後に木の棒メニューから特典受取ボタンをクリックすると特典を獲得出来ます。</span><br />
 <span style="color: #808080;">※忙しくて遊べない時も1日1回投票しておくと、次回遊ぶ時に投票回数分の特典をまとめて受け取れます。</span><br />
 <span style="color: #808080;">※投票するブラウザはInternetExplorerかSafariを推奨します。</span><br />
@@ -41,7 +42,7 @@
 <p>
 <br>
 <br>
-<a href="https://seichi.network/spring" rel="nofollow"><strong><span style="color: #0000ff;font-size: 32px;">整地鯖(春)とは？</strong></span></a><br>[spoiler=クリックで展開]
+<a href="https://seichi.network/spring" rel="nofollow"><strong><span style="color: #0000ff;font-size: 32px;">整地鯖(春)とは？</strong></span></a><br>
 <br>
 整地鯖(春)とは、ギガンティック☆整地鯖を立ち上げたunchamaとtar0ssが、今一度「整地鯖とはどうあるべきか？」を再考すべく、ゼロからの再構築を行なっている公開サーバです。詳細は、<a href="https://discord.gg/nmhjtC5" rel="nofollow">整地鯖(春)公式Discordグループに参加</a>してご確認ください。<br>
 <br />
@@ -50,7 +51,6 @@
 <img alt="" src="https://seichi.click/images/b/be/Top-banner5.png" /></a><br />
 投票すると投票ポイントをGETできます。溜まった投票ポイントはお好みのエフェクトと交換しよう！<br />
 ちなみに、seichi.click networkに対して投票するとギガンティック☆整地鯖と整地鯖(春)の双方で投票特典が利用可能です。<br>
-[/spoiler]
 <br />
 <b>クイックアクセス(整地鯖(春))</b> / <b><a href="https://seichi.network/spring" rel="nofollow">公式webサイト</a></b> / <b><a href="https://discord.gg/nmhjtC5" rel="nofollow">お問い合わせ(Discordグループ)</a></b> / <b><a href="https://discord.gg/nmhjtC5" rel="nofollow">Discordグループへ参加</a></b> / <b><a href="https://twitter.com/springseichi" rel="nofollow">公式Twitter</a></b> / <b><a href="http://map.spring.seichi.click" rel="nofollow">サーバーマップ</a></b> / <b><a href="https://springseichi.sokuhou.wiki/" rel="nofollow">非公式Wiki</a></b>
 </p>
