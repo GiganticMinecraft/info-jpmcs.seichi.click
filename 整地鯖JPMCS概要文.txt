@@ -51,7 +51,7 @@ Minecraftにおいて"整地"という作業をこよなく愛する方へ贈る
 整地をすればするほど様々な便利機能が解禁。さらに各地に眠る意志と交感すると、様々な恩恵を受けられます。<br />
 ピッケル片手に広大なMinecraftの世界を縦横無尽に駆け回り、整地を楽しもう。<br />
 <br />
-<b>※Version：Minecraft Java Edition <span style="color: #0000ff;font-size: 24px;">1.13.2</span></b><br />
+<b>※Version：Minecraft Java Edition <span style="color: #0000ff;font-size: 24px;">1.14.1</span></b><br />
 <br />
 <img alt="" src="https://seichi.click/images/b/be/Top-banner5.png" /></a><br />
 投票すると投票ポイントをGETできます。溜まった投票ポイントはお好みのエフェクトと交換しよう！<br />
