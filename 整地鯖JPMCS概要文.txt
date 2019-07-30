@@ -1,6 +1,6 @@
 <p>
 　<br>
-<a href="https://seichi.network" class="image"><img alt="" src="https://seichi.click/images/3/31/Top-banner4.png" /></a><br />
+<a href="https://seichi.network" class="image"><img alt="" src="https://i.gyazo.com/ecebd91a745eede855a7ea277fcc9a5f.png" /></a><br />
 <span style="font-size: 18px;"><strong><a href="https://seichi.network" rel="nofollow">webサイト</a>に記載しています。</strong></span><br>
 <b><span style="color: #0000ff;">※遊びたいサーバーのバージョンを確認してね！</span></b><br />
 <br>
@@ -11,7 +11,7 @@
 無料でご利用頂けるMinecraftマルチサーバーです。このサーバーでは、整地・建築を主ジャンルとした生活サーバー「ギガンティック☆整地鯖」/整地を主ジャンルとした「整地鯖(春)」の２つのサーバーを提供しています。</div>
 </p>
 <p>
-<span class="postimg"><a href="https://seichi.network/gigantic" rel="nofollow"><img alt="" src="https://seichi.click/images/2/2b/Top-banner2.png" /></a></span><br>
+<span class="postimg"><a href="https://seichi.network/gigantic" rel="nofollow"><img alt="" src="https://i.gyazo.com/a394cccca9c223bd0b6a99159d1fba1c.png" /></a></span><br>
 <div style="text-align: center">https://www.youtube.com/watch?v=lgsY3x_HRU4</div>
 スキルを使って<b>整地と建築</b>を楽しむ生活サーバーです。<br />
 アイテムロストがなく、建物は保護できますので安心して遊べます。<br />
@@ -19,7 +19,7 @@
 <br />
 <b>※Version：Minecraft Java Edition <span style="color: #0000ff;font-size: 24px;">1.12.2</span></b><br />
 <br />
-<img alt="" src="https://seichi.click/images/b/be/Top-banner5.png" /></a><br />
+<img alt="" src="https://i.gyazo.com/281511ed25a3390c8f7626bd47a32977.png"></a><br />
 <strong>投票するともれなく以下の<span style="color: #ff0000;">特典</span>が！</strong><br>
 ①<span style="color: #ff00ff;"><strong>ガチャ券が10枚</strong></span>もらえます♡<br />
 ②<span style="color: #33cccc;"><strong>効率強化と耐久エンチャント付ダイヤピッケル</strong></span>がもらえます♡（Lv50未満）<br />
@@ -63,7 +63,7 @@ Minecraftにおいて"整地"という作業をこよなく愛する方へ贈る
 <hr>
 <p>
 <br>
-<img alt="" src="https://seichi.click/images/d/d8/Top-banner13.png" /></a><br />
+<img alt="" src="https://i.gyazo.com/f9f4162fd456326c960d149fd29ac99c.png" /></a><br />
 <strong><span style="color: #0000ff;">寄付の受付及び特典について</strong></span><br>
 当サーバでは寄付を受け付けております。皆様の暖かいご支援をお待ちしております。詳しい内容は以下のページをご覧ください。<br>
 <a href="https://goo.gl/forms/W790Zg6l2BexVvf03" rel="nofollow">ギガンティック☆整地鯖 寄付受付フォーム</a><br>
