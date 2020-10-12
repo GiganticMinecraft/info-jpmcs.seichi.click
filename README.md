@@ -4,4 +4,4 @@ Japan Minecraft Serversにおける概要文ソースコードです。<br>
 有志の方によるissueやpull requestによる修正提案を歓迎しています。<br>
 
 # Ultimate "Syudo" Release
-pull requestのmerge等でmasterブランチの更新がかかると、Server Owenerのunchamaが気づき次第、丹精込めてJPMCSに反映いたします。
+pull requestのmerge等でmasterブランチの更新がかかると、Server Ownerのunchamaが気づき次第、丹精込めてJPMCSに反映いたします。
